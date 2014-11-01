@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Gurkensalat</REZEPTNAME>
+  <KATEGORIE>Salate</KATEGORIE>
+  <AUTOR>Mei&#223;ner, Christa</AUTOR>
+  <BEWERTUNG>*****</BEWERTUNG>
+  <ANZAHLPERSONEN></ANZAHLPERSONEN>
+  <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>eine mittelgro&#223;e Gurke</ZUTAT>
+    <ZUTAT>&#188; kleine Zwiebel</ZUTAT>
+    <ZUTAT>&#189; Teel&#246;ffel Salz</ZUTAT>
+    <ZUTAT>2- 3 Teel&#246;ffel Zucker</ZUTAT>
+    <ZUTAT>7 Teel&#246;ffel , 10% -tigen Essig</ZUTAT>
+    <ZUTAT>&#189; Tasse Wasser</ZUTAT>
+    <ZUTAT>Teel&#246;ffel Dill</ZUTAT>
+    <ZUTAT>2 Prisen Pfeffer</ZUTAT>
+    <ZUTAT>bis 5 Tropfen Oel { optional }</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Gurke in d&#252;nne Scheiben hobeln, Zwiebel in kleine W&#252;rfelchen
+    schneiden.</ITEM>
+    <ITEM>Die anderen Zutaten mit dem Wasser vermengen bis sich Zucker u. Salz
+    aufgel&#246;st haben.</ITEM>
+    <ITEM>Jetzt den Sud &#252;ber die Gurkenscheiben und Zwiebelw&#252;rfel gie&#223;en,
+    alles gut vermengen.</ITEM>
+    <ITEM>Schmeckt gut, wenn alles mindest &#189; Stunde zieht !</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

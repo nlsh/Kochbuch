@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE MENUE SYSTEM "menue.dtd">
+<?xml-stylesheet type="text/xsl" href="menue.xsl" ?>
+<MENUE>
+  <MENUENAME>Backenmen&#252;</MENUENAME>
+  <LINK>
+    <LINKNAME>
+    <FETT>Kochbuch</FETT>
+    <ZEILENUMBRUCH />
+    <ZEILENUMBRUCH />&#160;</LINKNAME>
+    <LINKADRESSE>../index.htm</LINKADRESSE>
+    <LINKAUSGABE>_top</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>
+    <FETT>Backen</FETT>
+    <ZEILENUMBRUCH />&#160;</LINKNAME>
+    <LINKADRESSE>backenmenuemenue.xml</LINKADRESSE>
+    <LINKAUSGABE>Inhalt</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Ananas- Mandarinen- Torte</LINKNAME>
+    <LINKADRESSE>../backen/Ananas-Mandarinen-Torte.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Biskuitboden</LINKNAME>
+    <LINKADRESSE>../backen/Biskuitboden.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>K&#228;setorte ohne Boden</LINKNAME>
+    <LINKADRESSE>../backen/Kaeseohneboden.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Kokosmakronen</LINKNAME>
+    <LINKADRESSE>../backen/Kokosmakronen.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Kokospl&#228;tzchen</LINKNAME>
+    <LINKADRESSE>../backen/Kokosplaetzchen.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Philadelphie- K&#228;se- Torte</LINKNAME>
+    <LINKADRESSE>../backen/Philadelphia-Kaese-Torte.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Raffaello Torte</LINKNAME>
+    <LINKADRESSE>../backen/Raffaello-Torte.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Rotk&#228;ppchenkuchen</LINKNAME>
+    <LINKADRESSE>../backen/Rotkaepchenkuchen.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Sprudelkuchen</LINKNAME>
+    <LINKADRESSE>../backen/Sprudelkuchen.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Stachelbeer- Butterkeks- Kuchen</LINKNAME>
+    <LINKADRESSE>../backen/Stachelbeer_Butterkeks_Kuchen.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Waffeln</LINKNAME>
+    <LINKADRESSE>../backen/Waffeln.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+</MENUE>

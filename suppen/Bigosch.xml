@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Bigosch</REZEPTNAME>
+  <KATEGORIE>Suppen</KATEGORIE>
+  <AUTOR>BILD der FRAU</AUTOR>
+  <BEWERTUNG>***</BEWERTUNG>
+ <ANZAHLPERSONEN></ANZAHLPERSONEN>
+ <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>3 Zwiebeln</ZUTAT>
+    <ZUTAT>125 g Knoblauchwurst</ZUTAT>
+    <ZUTAT>125 g durchwachsenen Speck</ZUTAT>
+    <ZUTAT>500 g Schweinefleisch</ZUTAT>
+    <ZUTAT>125 g Champignons</ZUTAT>
+    <ZUTAT>750 g Wei&#223;kohl</ZUTAT>
+    <ZUTAT>1 kleine Dose Tomatenmark</ZUTAT>
+    <ZUTAT>2 Knoblauchzehen</ZUTAT>
+    <ZUTAT>1 Lorbeerblatt</ZUTAT>
+    <ZUTAT>1 Teel&#246;ffel K&#252;mmel</ZUTAT>
+    <ZUTAT>2 Teel&#246;ffel Paprika</ZUTAT>
+    <ZUTAT>Salz</ZUTAT>
+    <ZUTAT>Majoran</ZUTAT>
+    <ZUTAT>&#189; l Wei&#223;wein</ZUTAT>
+    <ZUTAT>Zucker</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>die 3 Zwiebeln hacken</ITEM>
+    <ITEM>die Knoblauchwurst, den Speck , das Schweinefleisch und die Champignons in kleine
+    W&#252;rfel schneiden</ITEM>
+    <ITEM>den Wei&#223;kohl in Streifen schneiden</ITEM>
+    <ITEM>den gew&#252;rfelten Speck und das Schweinefleisch zusammen mit den Zwiebeln
+    kr&#228;ftig anbraten</ITEM>
+    <ITEM>wenn gew&#252;nscht, kann der Wei&#223;kohl auch noch zus&#228;tzlich separat
+    angeschmort werden</ITEM>
+    <ITEM>jetzt zu dem angebratenem Fleisch den Kohl, die Knoblauchwurst, die Champignons, den
+    Tomatenmark, die 2 gedr&#252;ckten Knoblauchzehen und ein Lorbeerblatt hinzugeben</ITEM>
+    <ITEM>das Ganze mit 1 Teel&#246;ffel K&#252;mmel, 2 Teel&#246;ffel Paprika, Salz und etwas
+    Majoran w&#252;rzen</ITEM>
+    <ITEM>zum Schluss den Topf mit dem Wei&#223;wein und Wasser so f&#252;llen, dass alle
+    Zutaten bedeckt sind</ITEM>
+    <ITEM>nun muss alles im geschlossenen Topf 1 h schmoren, wird dann mit Zucker abgeschmeckt
+    und mit einem Bauernbrot serviert</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

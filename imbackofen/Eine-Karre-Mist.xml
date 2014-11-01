@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Eine Karre Mist</REZEPTNAME>
+  <KATEGORIE>Backofen</KATEGORIE>
+  <AUTOR></AUTOR>
+  <BEWERTUNG></BEWERTUNG>
+ <ANZAHLPERSONEN></ANZAHLPERSONEN>
+ <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>1 kg gew&#252;rztes Mett mit Zwiebeln</ZUTAT>
+    <ZUTAT>3 gro&#223;e Tomaten</ZUTAT>
+    <ZUTAT>1 gro&#223;e Dose Pilze</ZUTAT>
+    <ZUTAT>1 Dose Mais</ZUTAT>
+    <ZUTAT>200 g Gouda</ZUTAT>
+    <ZUTAT>1 Becher Sahne</ZUTAT>
+    <ZUTAT>3 TL Br&#252;he</ZUTAT>
+    <ZUTAT>1 Schuss Wei&#223;wein</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>
+      <ZENTRIERT>Kommt der Bauer sp&#228;t vom Feld ,
+      <ZEILENUMBRUCH />die B&#228;uerin den Ofen anstellt.
+      <ZEILENUMBRUCH />"Eine Karre Mist" hei&#223;t das Gericht,
+      <ZEILENUMBRUCH />die Auflaufform h&#228;lt alles dicht.
+      <ZEILENUMBRUCH />Ein Kilo Mett wird nun halbiert,
+      <ZEILENUMBRUCH />damit man essen kann zu viert.
+      <ZEILENUMBRUCH />Die H&#228;lfte kommt nun in die Form,
+      <ZEILENUMBRUCH />das schmeckt bestimmt ganz enorm.
+      <ZEILENUMBRUCH />Nun wird belegt mit den Tomaten
+      <ZEILENUMBRUCH />Am besten aus dem eigenen Garten.
+      <ZEILENUMBRUCH />Hinzu kommen Pilze und der Mais,
+      <ZEILENUMBRUCH />am besten reicht man dazu Reis.
+      <ZEILENUMBRUCH />Obenauf kommt noch mal Hack,
+      <ZEILENUMBRUCH />damit der Bauer wird auch satt.
+      <ZEILENUMBRUCH />Angegossen wird mit Sahne, Br&#252;he und Wein,
+      <ZEILENUMBRUCH />nun kommt alles in den Ofen rein.
+      <ZEILENUMBRUCH />Gebrutzelt wird bei 200 Grad,
+      <ZEILENUMBRUCH />es schmeckt dann auch besonders zart,
+      <ZEILENUMBRUCH />wenn man zum Schluss mit K&#228;s' es bedeckt,
+      <ZEILENUMBRUCH />es sieht gut aus und schmeckt.</ZENTRIERT>
+    </ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

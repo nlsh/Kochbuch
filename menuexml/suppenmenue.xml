@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE MENUE SYSTEM "menue.dtd">
+<?xml-stylesheet type="text/xsl" href="menue.xsl" ?>
+<MENUE>
+  <MENUENAME>Suppen und Eint&#246;pfe Men&#252;</MENUENAME>
+  <LINK>
+    <LINKNAME>
+    <FETT>Kochbuch</FETT>
+    <ZEILENUMBRUCH />
+    <ZEILENUMBRUCH />&#160;</LINKNAME>
+    <LINKADRESSE>../index.htm</LINKADRESSE>
+    <LINKAUSGABE>_top</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>
+    <FETT>Pfannen, Suppen und Eint&#246;pfe</FETT>
+    <ZEILENUMBRUCH />&#160;</LINKNAME>
+    <LINKADRESSE>suppenmenue.xml</LINKADRESSE>
+    <LINKAUSGABE>Inhalt</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Bigosch</LINKNAME>
+    <LINKADRESSE>../suppen/Bigosch.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Champignonpfanne</LINKNAME>
+    <LINKADRESSE>../suppen/Champignonpfanne.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Kartoffelsuppe mit Aal</LINKNAME>
+    <LINKADRESSE>../suppen/Kartoffelsuppe-mit-Aal.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Kohlr&#252;beneintopf</LINKNAME>
+    <LINKADRESSE>../suppen/Kohlruebeneintopf.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>K&#252;rbis- Suppe</LINKNAME>
+    <LINKADRESSE>../suppen/Kurbissuppe.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Linseneintopf</LINKNAME>
+    <LINKADRESSE>../suppen/Linseneintopf.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Pikante Gyros Suppe</LINKNAME>
+    <LINKADRESSE>../suppen/Pikante-Gyros-Suppe.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Pizza- Suppe</LINKNAME>
+    <LINKADRESSE>../suppen/Pizzasuppe.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Porree- Suppe</LINKNAME>
+    <LINKADRESSE>../suppen/Porree.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Putengeschnetzeltes mit Kr&#228;uterk&#228;se</LINKNAME>
+    <LINKADRESSE>../suppen/Putengeschnetzeltes-mit-Kraeuterkaese.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Rittersuppe</LINKNAME>
+    <LINKADRESSE>../suppen/Rittersuppe.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Russischer Hackfleischtopf</LINKNAME>
+    <LINKADRESSE>../suppen/Russischer-Hackfleischtopf.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Russische Sauerkrautsuppe</LINKNAME>
+    <LINKADRESSE>../suppen/Russische-Sauerkrautsuppe.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Saftiges H&#228;hnchengulasch mit Sellerie</LINKNAME>
+    <LINKADRESSE>../suppen/Saftiges-Haehnchengulasch-mit-Sellerie.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Soljanka ala Oma Christa</LINKNAME>
+    <LINKADRESSE>../suppen/Gehaltvolle_Soljanka.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Weisskohleintopf</LINKNAME>
+    <LINKADRESSE>../suppen/Weisskohleintopf.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Wirsingtopf mit Schweinefleisch</LINKNAME>
+    <LINKADRESSE>../suppen/Wirsingtopf_mit_Schweinefleisch.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+</MENUE>

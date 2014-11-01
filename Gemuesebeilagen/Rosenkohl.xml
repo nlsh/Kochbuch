@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Rosenkohl</REZEPTNAME>
+  <KATEGORIE>Gem&#252;sebeilagen</KATEGORIE>
+  <AUTOR>Mei&#223;ner, Christa</AUTOR>
+  <BEWERTUNG>*****</BEWERTUNG>
+  <ANZAHLPERSONEN>2</ANZAHLPERSONEN>
+  <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>750 g Rosenkohl</ZUTAT>
+    <ZUTAT>2 Teel&#246;ffel Salz</ZUTAT>
+    <ZUTAT>geriebene Muskatnuss, nach Geschmack</ZUTAT>
+    <ZUTAT>1 &#189; Essl&#246;ffel Butter</ZUTAT>
+    <ZUTAT>Wasser</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Den Rosenkohl putzen, an der Basis kreuzweise einschneiden, in einen Topf geben
+    und soviel Wasser zuf&#252;gen, dass die R&#246;schen gerade bedeckt sind.</ITEM>
+    <ITEM>Das Salz zugeben und den Rosenkohl zum Kochen bringen. Kochzeit zwischendurch
+    &#252;berpr&#252;fen, abh&#228;ngig von der Gr&#246;&#223;e der R&#246;schen,
+    zwischen 15- 20 Minuten.</ITEM>
+    <ITEM>Rosenkohl durch ein Sieb abgie&#223;en. Wasser wegsch&#252;tten!</ITEM>
+    <ITEM>Die Butter in eine Pfanne geben, br&#228;unen, und die R&#246;schen darin
+    schwenken.</ITEM>
+    <ITEM>Das Muskat kann zur Geschmacksbildung jetzt mit untergeschwenkt werden.</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

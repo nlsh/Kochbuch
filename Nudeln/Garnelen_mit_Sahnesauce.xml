@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Garnelen mit Sahnesauce</REZEPTNAME>
+  <KATEGORIE>Nudelbeilage</KATEGORIE>
+  <AUTOR>Pasta-Buch</AUTOR>
+  <BEWERTUNG>*****</BEWERTUNG>
+  <ANZAHLPERSONEN>3</ANZAHLPERSONEN>
+  <ZUBEREITUNGSZEIT>20 min</ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>3 EL Oliven&#246;l</ZUTAT>
+    <ZUTAT>3 EL Butter</ZUTAT>
+    <ZUTAT>4 Knoblauchzehen, fein gehackt</ZUTAT>
+    <ZUTAT>2 EL klein gew&#252;rfelte rote Paprika</ZUTAT>
+    <ZUTAT>2 EL Tomatenmark</ZUTAT>
+    <ZUTAT>125 ml trockener Wei&#223;wein</ZUTAT>
+    <ZUTAT>500 g Tagliatelle oder Spaghetti</ZUTAT>
+    <ZUTAT>350 g rohe Garnelen, ausgel&#246;st und in 1 cm St&#252;cke
+    geschnitten</ZUTAT>
+    <ZUTAT>125 g Cr&#233;me double</ZUTAT>
+    <ZUTAT>Salz und Pfeffer</ZUTAT>
+    <ZUTAT>3 EL frisch gehackte glatte Petersilie</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>&#214;l und Butter in einem gro&#223;en Topf erhitzen.</ITEM>
+    <ITEM>Knoblauch und Paprika zuf&#252;gen und einige Sekunden d&#252;nsten, bis der
+    Knoblauch glasig ist. Dann Tomatenmark und Wein einr&#252;hren und alles 10 Minuten
+    unter R&#252;hren kochen.</ITEM>
+    <ITEM>Die Nudeln in einem gro&#223;en Topf mit kochendem Salzwasser al dente garen.
+    Dann gr&#252;ndlich abtropfen lassen und in den Topf zur&#252;ckgeben.</ITEM>
+    <ITEM>Die Garnelen in die Sauce geben und die Hitze erh&#246;hen. 2 Minuten unter
+    R&#252;hren garen, bis die Garnelen Farbe annehmen. Die Hitze reduzieren und die
+    Cr&#233;me double einr&#252;hren. 1 Minute unter R&#252;hren k&#246;cheln lassen, bis
+    die Sauce andickt. Mit Salz und Pfeffer abschmecken.</ITEM>
+    <ITEM>Die Nudeln in eine vorgew&#228;rmte Serviersch&#252;ssel geben und die Sauce
+    dar&#252;ber verteilen.</ITEM>
+    <ITEM>Das fertige Gericht mit Petersilie bestreuen, dann alles gut mischen und sofort
+    servieren.</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

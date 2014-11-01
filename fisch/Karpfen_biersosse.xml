@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Karpfen in Malzbierso&#223;e</REZEPTNAME>
+  <KATEGORIE>Fischgerichte</KATEGORIE>
+  <AUTOR>Mei&#223;ner, Christa</AUTOR>
+  <BEWERTUNG>*****</BEWERTUNG>
+  <ANZAHLPERSONEN>2</ANZAHLPERSONEN>
+  <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>1 Malzbier</ZUTAT>
+    <ZUTAT>1 Altbier</ZUTAT>
+    <ZUTAT>2 gr. St&#252;cke Karpfen</ZUTAT>
+    <ZUTAT>2 Teel&#246;ffel Zucker</ZUTAT>
+    <ZUTAT>1 &#189; Teel&#246;ffel Salz</ZUTAT>
+    <ZUTAT>1 Teel&#246;ffel Pfefferk&#246;rnerPfeffer</ZUTAT>
+    <ZUTAT>2 Blatt Lorbeer</ZUTAT>
+    <ZUTAT>4 K&#246;rner Piment</ZUTAT>
+    <ZUTAT>2 Zwiebeln</ZUTAT>
+    <ZUTAT>1 Zehe Knoblauch</ZUTAT>
+    <ZUTAT>1 Essl&#246;fel Mehl</ZUTAT>
+    <ZUTAT>1 Essl&#246;ffel Butter</ZUTAT>
+    <ZUTAT>Zitrone</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Alle Zutaten bis zur glatten Konsistenz durchkneten, entsprechend der
+    Verwendung Masse ausformen!</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

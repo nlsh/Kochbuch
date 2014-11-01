@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Russischer Hackfleischtopf</REZEPTNAME>
+  <KATEGORIE>T&#246;pfe</KATEGORIE>
+  <AUTOR></AUTOR>
+  <BEWERTUNG></BEWERTUNG>
+ <ANZAHLPERSONEN></ANZAHLPERSONEN>
+ <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>4 Zwiebeln</ZUTAT>
+    <ZUTAT>5 El &#214;l</ZUTAT>
+    <ZUTAT>1,6 kg Hackfleisch</ZUTAT>
+    <ZUTAT>3 Stangen Porree</ZUTAT>
+    <ZUTAT>800 g Tomatenp&#252;ree</ZUTAT>
+    <ZUTAT>500 ml Instanz-Br&#252;he</ZUTAT>
+    <ZUTAT>1 EL Senf</ZUTAT>
+    <ZUTAT>Paprikapulver</ZUTAT>
+    <ZUTAT>Salz, Pfeffer</ZUTAT>
+    <ZUTAT>450 g Sauerrahm</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>zuerst die Zwiebeln sch&#228;len und w&#252;rfeln, danach im hei&#223;en &#214;l in
+    der Pfanne glasig d&#252;nsten</ITEM>
+    <ITEM>dann das Hackfleisch zugeben und unter R&#252;hren kr&#252;melig braten</ITEM>
+    <ITEM>den Porree putzen, waschen und in feine Ringe schneiden</ITEM>
+    <ITEM>alles zusammen mit dem Tomatenp&#252;ree, der Instanz-Br&#252;he und dem Senf zum
+    Hackfleisch geben</ITEM>
+    <ITEM>alles zusammen mit dem Tomatenp&#252;ree, der Instanz- Br&#252;he und dem Senf zum
+    Hackfleisch geben und alles gut vermischen</ITEM>
+    <ITEM>danach mit Paprika, Salz und Pfeffer w&#252;rzen, alles zum Kochen bringen und ca.
+    15 Min. unter R&#252;hren k&#246;cheln lassen</ITEM>
+    <ITEM>Zum Schluss den Hackfleischtopf nochmals mit Salz und Pfeffer pikant abschmecken.
+    Den Sauerrahm erst kurz vor dem Servieren gie&#223;en.</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

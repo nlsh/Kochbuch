@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>K&#228;setorte ohne Boden</REZEPTNAME>
+  <KATEGORIE>Backen</KATEGORIE>
+  <AUTOR>unbekannt</AUTOR>
+  <BEWERTUNG></BEWERTUNG>
+  <ANZAHLPERSONEN></ANZAHLPERSONEN>
+  <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>1 kg Quark</ZUTAT>
+    <ZUTAT>6- 8 Eier</ZUTAT>
+    <ZUTAT>4 Essl&#246;ffel Gries</ZUTAT>
+    <ZUTAT>2 Essl&#246;ffel Kartoffelmehl ( Weizenin)</ZUTAT>
+    <ZUTAT>&#190; P&#228;ckchen Backpulver</ZUTAT>
+    <ZUTAT>250 g Zucker</ZUTAT>
+    <ZUTAT>&#188; Flasche Rum- Aroma</ZUTAT>
+    <ZUTAT>250 g Fett</ZUTAT>
+    <ZUTAT>1 Zitrone</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Quark, Eigelb, Grie&#223;, Kartoffelmehl, Bachpulver, Zitronesaft, Zucker und geriebene
+    Zitronenschale miteinander verr&#252;hren</ITEM>
+    <ITEM>Fett fl&#252;ssig machen und dazugeben</ITEM>
+    <ITEM>Eiwei&#223; zu Schnee schlagen und unter die Masse heben</ITEM>
+    <ITEM>alles in eine Springform geben und im Ofen ca. 1 h bei 175&#186; Celsius
+    backen</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

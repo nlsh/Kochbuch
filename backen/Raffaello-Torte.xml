@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Raffaello- Torte</REZEPTNAME>
+  <KATEGORIE>Backen</KATEGORIE>
+  <AUTOR></AUTOR>
+  <BEWERTUNG>*****</BEWERTUNG>
+  <ANZAHLPERSONEN></ANZAHLPERSONEN>
+  <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>125 g Zucker</ZUTAT>
+    <ZUTAT>125 g Butter</ZUTAT>
+    <ZUTAT>100 g Mehl</ZUTAT>
+    <ZUTAT>50 g Kokosraspeln</ZUTAT>
+    <ZUTAT>1 P&#228;ckchen Vanillezucker</ZUTAT>
+    <ZUTAT>4 Eier</ZUTAT>
+    <ZUTAT>3 gestrichene Teel&#246;ffel Backpulver</ZUTAT>
+    <ZUTAT>etwas Aprikosenmarmelade</ZUTAT>
+    <ZUTAT>2- 3 Becher s&#252;&#223;e Sahne</ZUTAT>
+    <ZUTAT>2- 3 P&#228;ckchen Sahnesteif</ZUTAT>
+    <ZUTAT>12- 14 Raffaellos</ZUTAT>
+    <ZUTAT>1 kleine Dose Aprikosen</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Kokosraspeln goldgelb r&#246;sten und abk&#252;hlen lassen</ITEM>
+    <ITEM>Butter, Zucker, Vanillezucker und Eigelb schaumig r&#252;hren</ITEM>
+    <ITEM>Kokosraspeln und Mehl daruntergeben und mit dem steif geschlagenen Eiwei&#223;
+    mischen</ITEM>
+    <ITEM>Teig in einer Springform ( &#248; 26 cm) bei 180&#186; Celsius 30 min
+    backen</ITEM>
+    <ITEM>Aprikosenmarmelade kurz erw&#228;rmen und auf den erkalteten Boden
+    streichen</ITEM>
+    <ITEM>jetzt die abgetropften Aprikosen dar&#252;berlegen</ITEM>
+    <ITEM>Sahne mit Sahnesteif steif schlagen und zerkleinerte Raffaellos unter die Sahne
+    mischen</ITEM>
+    <ITEM>Sahne &#252;ber die Raffaellos streichen</ITEM>
+    <ITEM>zum Schluss das Ganze mit halbierten Raffaellos verzieren</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

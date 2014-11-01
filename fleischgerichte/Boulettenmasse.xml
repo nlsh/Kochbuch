@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Boulettenmasse</REZEPTNAME>
+  <KATEGORIE>Fleischgerichte</KATEGORIE>
+  <AUTOR>Mei&#223;ner, Christa</AUTOR>
+  <BEWERTUNG>*****</BEWERTUNG>
+  <ANZAHLPERSONEN></ANZAHLPERSONEN>
+  <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>500 g gemischtes Hackfleisch</ZUTAT>
+    <ZUTAT>1 Teel&#246;ffel Salz</ZUTAT>
+    <ZUTAT>1 Ei</ZUTAT>
+    <ZUTAT>5 Teel&#246;ffel Semmelmehl</ZUTAT>
+    <ZUTAT>2 geh&#228;uften Teel&#246;ffel Mostrich</ZUTAT>
+    <ZUTAT>1 mittlere klein gew&#252;rfelte Zwiebel</ZUTAT>
+    <ZUTAT>1 geh&#228;ufte Messerspitze Pfeffer</ZUTAT>
+    <ZUTAT>1 Teel&#246;ffel Majoran {optional}</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Alle Zutaten bis zur glatten Konsistenz durchkneten, entsprechend der
+    Verwendung Masse ausformen!</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>
