@@ -1,0 +1,106 @@
+/* Allgemeine CSS_Eigenschaften */
+
+.right    {
+    text-align: right;
+}
+
+.left     {
+    text-align: left;
+}
+
+.center   {
+    text-align : center;
+}
+
+.font {
+    font-size: 8pt;
+    color: #000000;
+    font-family: verdana, arial, helvetica;
+    text-decoration: none
+}
+
+a:link {
+    color:#990000 /* link- farbe  */
+}
+
+a:visited {
+    color:#990000  /* besuchten links  */
+}
+
+a:hover {
+    color:#ff0000; /* hintergrundfarbe für mit der maus drüber  */
+}
+
+a:active {
+    color:#990000 /* gerade angewählter link  */
+}
+
+body {
+    background-image:url(../img/fun_bak.gif);
+    background-attachment: fixed;
+    font-size: 8pt;
+    color: #000000;
+    margin: 0;
+    font-family: verdana, arial, helvetica;
+    text-decoration: none
+}
+
+/* CSS- Eigenschaften des Head- Frames */
+
+#frame_head {
+    margin-top: 8px;
+}
+
+#frame_head .pic_kochbuch{
+    height: 33px;
+    text-align: right;
+}
+
+#frame_head .online{
+    background-repeat:repeat-x;
+    background: url(../img/hg1_m.gif);
+    height: 39px;
+
+}
+
+#frame_head .online-left {
+    float: left;
+}
+
+#frame_head .design{
+    float:left;
+    font-size: 7pt;
+    padding-top: 14px;
+}
+
+#frame_head .online-right {
+    float: right;
+    width: 178px;
+    background-image:url(../img/fun_bak.gif);
+    background-attachment: fixed;
+    height: 33px;
+}
+
+#frame_head .copyright{
+    font-size: 7pt;
+    background: url(../img/hg2.gif);
+    line-height:29px;
+    background-repeat:no-repeat;
+    text-align: right;
+}
+
+.ueberschrift   { font-size: 8pt;
+    font-weight: bold;
+    text-transform:uppercase;
+                  }
+
+.navigation	 {	font-family: "verdana";
+			font-size: 10px;
+                         background-image:url(img/bg_nav.gif);
+                         text-align: right;
+                         line-height:17px;
+                  }
+
+/* (c) 2014 nils heinold
+
+http://www.nilsheinold.de */
