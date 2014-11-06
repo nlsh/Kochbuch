@@ -1,14 +1,14 @@
 /* Allgemeine CSS_Eigenschaften */
 
-.right    {
+.right {
     text-align: right;
 }
 
-.left     {
+.left {
     text-align: left;
 }
 
-.center   {
+.center {
     text-align : center;
 }
 
@@ -45,18 +45,33 @@ body {
     text-decoration: none
 }
 
+
+.ueberschrift {
+    font-size: 8pt;
+    font-weight: bold;
+    text-transform:uppercase;
+}
+
+.navigation {
+    font-family: "verdana";
+    font-size: 10px;
+    background-image:url(img/bg_nav.gif);
+    text-align: right;
+    line-height:17px;
+}
+
 /* CSS- Eigenschaften des Head- Frames */
 
 #frame_head {
     margin-top: 8px;
 }
 
-#frame_head .pic_kochbuch{
+#frame_head .pic_kochbuch {
     height: 33px;
     text-align: right;
 }
 
-#frame_head .online{
+#frame_head .online {
     background-repeat:repeat-x;
     background: url(../img/hg1_m.gif);
     height: 39px;
@@ -67,7 +82,7 @@ body {
     float: left;
 }
 
-#frame_head .design{
+#frame_head .design {
     float:left;
     font-size: 7pt;
     padding-top: 14px;
@@ -81,25 +96,13 @@ body {
     height: 33px;
 }
 
-#frame_head .copyright{
+#frame_head .copyright {
     font-size: 7pt;
     background: url(../img/hg2.gif);
     line-height:29px;
     background-repeat:no-repeat;
     text-align: right;
 }
-
-.ueberschrift   { font-size: 8pt;
-    font-weight: bold;
-    text-transform:uppercase;
-                  }
-
-.navigation	 {	font-family: "verdana";
-			font-size: 10px;
-                         background-image:url(img/bg_nav.gif);
-                         text-align: right;
-                         line-height:17px;
-                  }
 
 /* (c) 2014 nils heinold
 
