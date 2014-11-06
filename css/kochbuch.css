@@ -1,4 +1,4 @@
-/* Allgemeine CSS_Eigenschaften */
+/* Allgemeine CSS- Eigenschaften */
 
 .right {
     text-align: right;
@@ -19,6 +19,8 @@
     text-decoration: none
 }
 
+/* Allgemeine CSS- Eigenschaften von Tags*/
+
 a:link {
     color:#990000 /* link- farbe  */
 }
@@ -35,21 +37,26 @@ a:active {
     color:#990000 /* gerade angewählter link  */
 }
 
+h1, h2, h3, h4, h5, h6 {
+    text-transform: uppercase;
+    margin-top: 2em;
+}
+
+img {
+    border: 0;
+}
+
 body {
     background-image:url(../img/fun_bak.gif);
     background-attachment: fixed;
-    font-size: 8pt;
     color: #000000;
     margin: 0;
     font-family: verdana, arial, helvetica;
     text-decoration: none
 }
 
-
-.ueberschrift {
-    font-size: 8pt;
-    font-weight: bold;
-    text-transform:uppercase;
+td  {
+    vertical-align: top;
 }
 
 .navigation {
@@ -102,6 +109,12 @@ body {
     line-height:29px;
     background-repeat:no-repeat;
     text-align: right;
+}
+
+/* CSS- Eigenschaften id und class*/
+
+#impressum {
+    margin: 2em ;
 }
 
 /* (c) 2014 nils heinold
