@@ -156,6 +156,11 @@ td  {
     background-image: url(../menuexml/newimg/hg3.gif);
 }
 
+#inhalt {
+    margin-top: 5em;
+    text-align: center;
+}
+
 /* (c) 2014 nils heinold
 
 http://www.nilsheinold.de */
