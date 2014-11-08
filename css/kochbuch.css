@@ -12,13 +12,6 @@
     text-align : center;
 }
 
-.font {
-    font-size: 8pt;
-    color: #000000;
-    font-family: verdana, arial, helvetica;
-    text-decoration: none
-}
-
 /* Allgemeine CSS- Eigenschaften von Tags*/
 
 a:link {
@@ -82,7 +75,6 @@ td  {
     background-repeat:repeat-x;
     background: url(../img/hg1_m.gif);
     height: 39px;
-
 }
 
 #frame_head .online-left {
@@ -115,6 +107,10 @@ td  {
 
 #impressum {
     margin: 2em ;
+}
+
+.impressum {
+     margin-top: 30px;
 }
 
 #menue {
@@ -159,6 +155,10 @@ td  {
 #inhalt {
     margin-top: 5em;
     text-align: center;
+}
+
+#zutaten {
+    margin-top: 2em;
 }
 
 /* (c) 2014 nils heinold

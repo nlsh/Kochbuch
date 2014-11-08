@@ -34,9 +34,12 @@
                         </xsl:element>
                     </li>
                     </xsl:for-each>
+                    <li>
+                    <a class="impressum" href="../impressum.htm" target="Hauptfenster">Impressum</a>
+                    </li>
                 </ul>
             </nav>
-            <div id="menue-bottom"> 
+            <div id="menue-bottom">
             </div>
         </div>
       </body>
