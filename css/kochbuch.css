@@ -157,8 +157,28 @@ td  {
     text-align: center;
 }
 
-#zutaten {
+#zutaten,
+#zubereitung {
     margin-top: 2em;
+}
+
+#zutaten ul {
+    margin: 0;
+}
+
+#zubereitung ul {
+    padding-left: 0;
+}
+
+#zubereitung li {
+    list-style-type: none;
+    display: table-row;
+}
+
+#zubereitung li div {
+    display: table-cell;
+    padding-right: 10px;
+}
 }
 
 /* (c) 2014 nils heinold
