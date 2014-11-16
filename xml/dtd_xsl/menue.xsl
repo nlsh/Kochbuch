@@ -13,14 +13,7 @@
         <title>Men&#252;.xsl</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width; initial-scale=1.0;" />
-        <link rel="stylesheet" href="../css/kochbuch.css" type="text/css" />
-        <style type="text/css">
-            a:link { text-decoration:none; color:#000000; }
-            a:visited { text-decoration:none; color:#000000; }
-            a:hover { text-decoration:none; color:#000000; }
-            a:active { text-decoration:none; color:#000000; background-image: url("../menuexml/newimg/paprika.gif");
-    background-repeat: no-repeat;}
-        </style>
+        <link rel="stylesheet" href="../../html/css/kochbuch.css" type="text/css" />
       </head>
       <body>
         <div id="menue">
@@ -35,7 +28,7 @@
                     </li>
                     </xsl:for-each>
                     <li>
-                    <a class="impressum" href="../impressum.htm" target="Hauptfenster">Impressum</a>
+                    <a class="impressum" href="../../html/impressum.htm" target="Hauptfenster">Impressum</a>
                     </li>
                 </ul>
             </nav>
