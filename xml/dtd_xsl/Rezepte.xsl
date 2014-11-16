@@ -13,7 +13,7 @@
             <title>Kochbuch.xsl</title>
             <meta charset="utf-8" />
             <meta name="viewport" content="width=device-width; initial-scale=1.0;" />
-            <link rel="stylesheet" href="../css/kochbuch.css" type="text/css" />
+            <link rel="stylesheet" href="../../../html/css/kochbuch.css" type="text/css" />
           </head>
           <body>
             <div id="rezepte">
