@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
-<?xml-stylesheet type="text/xsl" href="../Rezepte.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/Rezepte.xsl" ?>
 <REZEPT>
   <REZEPTNAME>Paprikagem&#252;se</REZEPTNAME>
   <KATEGORIE>Gem&#252;sebeilagen</KATEGORIE>
