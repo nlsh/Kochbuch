@@ -20,27 +20,27 @@
   </LINK>
   <LINK>
     <LINKNAME>Boulettenmasse</LINKNAME>
-    <LINKADRESSE>../fleischgerichte/Boulettenmasse.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/fleischgerichte/Boulettenmasse.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Boulettentopf</LINKNAME>
-    <LINKADRESSE>../fleischgerichte/Boulettentopf.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/fleischgerichte/Boulettentopf.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>H&#228;hnchengeschnetzeltes Stroganoff</LINKNAME>
-    <LINKADRESSE>../fleischgerichte/Haehnchengeschnetzeltes-Stroganoff.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/fleischgerichte/Haehnchengeschnetzeltes-Stroganoff.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>K&#246;nigsberger Klopse</LINKNAME>
-    <LINKADRESSE>../fleischgerichte/Koenigsbergerklopse.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/fleischgerichte/Koenigsbergerklopse.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Kohlrouladen</LINKNAME>
-    <LINKADRESSE>../fleischgerichte/Kohlrouladen.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/fleischgerichte/Kohlrouladen.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
 </MENUE>

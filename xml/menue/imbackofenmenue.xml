@@ -20,37 +20,37 @@
   </LINK>
   <LINK>
     <LINKNAME>Backofensuppe</LINKNAME>
-    <LINKADRESSE>../imbackofen/Backofensuppe.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/imbackofen/Backofensuppe.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Eine Karre Mist</LINKNAME>
-    <LINKADRESSE>../imbackofen/Eine-Karre-Mist.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/imbackofen/Eine-Karre-Mist.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>H&#228;hnchen portugiesisch</LINKNAME>
-    <LINKADRESSE>../imbackofen/Haehnchen-portugiesisch.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/imbackofen/Haehnchen-portugiesisch.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Kaukasisches Reiterfleisch</LINKNAME>
-    <LINKADRESSE>../imbackofen/Kaukasisches-Reiterfleisch.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/imbackofen/Kaukasisches-Reiterfleisch.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Paprikapfanne mit Schweinekamm</LINKNAME>
-    <LINKADRESSE>../imbackofen/Paprikapfanne-mit-Schweinekamm.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/imbackofen/Paprikapfanne-mit-Schweinekamm.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>R&#228;uberhachbraten</LINKNAME>
-    <LINKADRESSE>../imbackofen/Raeuberhackbraten.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/imbackofen/Raeuberhackbraten.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Saftige Schnitzel- Pizza</LINKNAME>
-    <LINKADRESSE>../imbackofen/Saftige-Schnitzel-Pizza.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/imbackofen/Saftige-Schnitzel-Pizza.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
 </MENUE>

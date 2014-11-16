@@ -20,27 +20,27 @@
   </LINK>
   <LINK>
     <LINKNAME>Paprikagemüse</LINKNAME>
-    <LINKADRESSE>../Gemuesebeilagen/PaprikaGemuesel.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/Gemuesebeilagen/PaprikaGemuesel.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Rosenkohl</LINKNAME>
-    <LINKADRESSE>../Gemuesebeilagen/Rosenkohl.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/Gemuesebeilagen/Rosenkohl.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Rotkohl</LINKNAME>
-    <LINKADRESSE>../Gemuesebeilagen/Rotkohl.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/Gemuesebeilagen/Rotkohl.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Sauerkraut</LINKNAME>
-    <LINKADRESSE>../Gemuesebeilagen/Sauerkraut.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/Gemuesebeilagen/Sauerkraut.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Spargel</LINKNAME>
-    <LINKADRESSE>../Gemuesebeilagen/Spargel.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/Gemuesebeilagen/Spargel.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
 </MENUE>

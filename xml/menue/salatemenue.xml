@@ -20,22 +20,22 @@
   </LINK>
   <LINK>
     <LINKNAME>Bohnensalat</LINKNAME>
-    <LINKADRESSE>../salate/Bohnensalat.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/salate/Bohnensalat.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Gurkensalat</LINKNAME>
-    <LINKADRESSE>../salate/Gurkensalat.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/salate/Gurkensalat.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Kartoffelsalat</LINKNAME>
-    <LINKADRESSE>../salate/Kartoffelsalat.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/salate/Kartoffelsalat.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Wei&#223;kohlsalat</LINKNAME>
-    <LINKADRESSE>../salate/Weisskohlsalat.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/salate/Weisskohlsalat.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
 </MENUE>

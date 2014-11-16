@@ -20,87 +20,87 @@
   </LINK>
   <LINK>
     <LINKNAME>Bigosch</LINKNAME>
-    <LINKADRESSE>../suppen/Bigosch.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/Bigosch.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Champignonpfanne</LINKNAME>
-    <LINKADRESSE>../suppen/Champignonpfanne.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/Champignonpfanne.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Kartoffelsuppe mit Aal</LINKNAME>
-    <LINKADRESSE>../suppen/Kartoffelsuppe-mit-Aal.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/Kartoffelsuppe-mit-Aal.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Kohlr&#252;beneintopf</LINKNAME>
-    <LINKADRESSE>../suppen/Kohlruebeneintopf.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/Kohlruebeneintopf.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>K&#252;rbis- Suppe</LINKNAME>
-    <LINKADRESSE>../suppen/Kurbissuppe.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/Kurbissuppe.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Linseneintopf</LINKNAME>
-    <LINKADRESSE>../suppen/Linseneintopf.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/Linseneintopf.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Pikante Gyros Suppe</LINKNAME>
-    <LINKADRESSE>../suppen/Pikante-Gyros-Suppe.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/Pikante-Gyros-Suppe.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Pizza- Suppe</LINKNAME>
-    <LINKADRESSE>../suppen/Pizzasuppe.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/Pizzasuppe.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Porree- Suppe</LINKNAME>
-    <LINKADRESSE>../suppen/Porree.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/Porree.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Putengeschnetzeltes mit Kr&#228;uterk&#228;se</LINKNAME>
-    <LINKADRESSE>../suppen/Putengeschnetzeltes-mit-Kraeuterkaese.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/Putengeschnetzeltes-mit-Kraeuterkaese.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Rittersuppe</LINKNAME>
-    <LINKADRESSE>../suppen/Rittersuppe.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/Rittersuppe.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Russischer Hackfleischtopf</LINKNAME>
-    <LINKADRESSE>../suppen/Russischer-Hackfleischtopf.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/Russischer-Hackfleischtopf.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Russische Sauerkrautsuppe</LINKNAME>
-    <LINKADRESSE>../suppen/Russische-Sauerkrautsuppe.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/Russische-Sauerkrautsuppe.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Saftiges H&#228;hnchengulasch mit Sellerie</LINKNAME>
-    <LINKADRESSE>../suppen/Saftiges-Haehnchengulasch-mit-Sellerie.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/Saftiges-Haehnchengulasch-mit-Sellerie.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Soljanka ala Oma Christa</LINKNAME>
-    <LINKADRESSE>../suppen/Gehaltvolle_Soljanka.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/Gehaltvolle_Soljanka.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Weisskohleintopf</LINKNAME>
-    <LINKADRESSE>../suppen/Weisskohleintopf.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/Weisskohleintopf.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Wirsingtopf mit Schweinefleisch</LINKNAME>
-    <LINKADRESSE>../suppen/Wirsingtopf_mit_Schweinefleisch.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/Wirsingtopf_mit_Schweinefleisch.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
 </MENUE>
