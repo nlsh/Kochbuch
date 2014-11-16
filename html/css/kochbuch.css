@@ -105,7 +105,8 @@ td  {
 
 /* CSS- Eigenschaften id und class*/
 
-#impressum {
+#impressum,
+#rezepte {
     margin: 2em ;
 }
 
@@ -191,7 +192,6 @@ td  {
 #zubereitung li div {
     display: table-cell;
     padding-right: 10px;
-}
 }
 
 /* (c) 2014 nils heinold
