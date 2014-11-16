@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Pikante Gyros- Suppe</REZEPTNAME>
+  <KATEGORIE>Suppen</KATEGORIE>
+  <AUTOR></AUTOR>
+  <BEWERTUNG></BEWERTUNG>
+ <ANZAHLPERSONEN></ANZAHLPERSONEN>
+ <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>1,2 bis 1,5 kg Schweineschnitzel</ZUTAT>
+    <ZUTAT>2 Knoblauchzehen</ZUTAT>
+    <ZUTAT>8 EL &#214;l ( z.B. Oliven&#246;l</ZUTAT>
+    <ZUTAT>1 bis 2 EL Gyros- Gew&#252;rzsalz</ZUTAT>
+    <ZUTAT>300 g Schlagsahne</ZUTAT>
+    <ZUTAT>3 Zwiebeln</ZUTAT>
+    <ZUTAT>5 gro&#223;e Paprikaschoten ( 8 k&#246;nnen mehrfarbig sein)</ZUTAT>
+    <ZUTAT>1 bis 2 EL Butter / Margarine</ZUTAT>
+    <ZUTAT>2 Beutel ( a 30 g) Zwiebelsuppe ( f&#252;r &#190; l Fl&#252;ssigkeit)</ZUTAT>
+    <ZUTAT>12 EL Zigeuner- oder Chili- Sauce</ZUTAT>
+    <ZUTAT>150 g Sahne- Schmelzk&#228;se</ZUTAT>
+    <ZUTAT>&#189; TL getrockneter Thymian</ZUTAT>
+    <ZUTAT>Salz</ZUTAT>
+    <ZUTAT>wei&#223;er Pfeffer</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Fleisch waschen, trockentupfen und in feine Streifen schneiden.
+    <ZEILENUMBRUCH />Knoblauch sch&#228;len und hacken. Beides mit &#214;l und Gyros-
+    Gew&#252;rzsalz verr&#252;hren. Zugedeckt 2- 3 Stunden in den K&#252;hlschrank
+    stellen.</ITEM>
+    <ITEM>Fleisch im W&#252;rz&#246;l portionsweise ca. 10 Minuten kr&#228;ftig braten.
+    <ZEILENUMBRUCH />Dabei ab und zu wenden. Abk&#252;hlen lassen und die Sahne
+    dar&#252;bergie&#223;en. Gyros zugedeckt &#252;ber Nacht kalt stellen.</ITEM>
+    <ITEM>Zwiebeln sch&#228;len, in Ringe schneiden. Paprika putzen, waschen und in Streifen
+    schneiden. Fett in einem gro&#223;en Topf erhitzen. Zwiebeln und Paprika darin
+    and&#252;nsten. Mit 1 &#190; l Wasser abl&#246;schen. Aufkochen, Suppenpulver
+    einr&#252;hren. Sauce, K&#228;se und Thymian einr&#252;hren. Ca. 10 Minuten k&#246;cheln
+    lassen. Gyros in die Suppe geben. Alles nochmals gut durchkochen und abschmecken.</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

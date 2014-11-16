@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Bouletten Topf</REZEPTNAME>
+  <KATEGORIE>Fleischgerichte</KATEGORIE>
+  <AUTOR>Mei&#223;ner, Christa</AUTOR>
+  <BEWERTUNG>*****</BEWERTUNG>
+  <ANZAHLPERSONEN></ANZAHLPERSONEN>
+  <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>1 kg Gehacktes</ZUTAT>
+    <ZUTAT>3 Maggi fix f&#252;r Champignon</ZUTAT>
+    <ZUTAT>1 Schlagsahne</ZUTAT>
+    <ZUTAT>&#189; Becher saure Sahne</ZUTAT>
+    <ZUTAT>1 gro&#223;e Dose Champignon on Saft</ZUTAT>
+    <ZUTAT>1 kleine gew&#252;rfelte Zwiebel</ZUTAT>
+    <ZUTAT>2- 3 Gew&#252;rzgurken</ZUTAT>
+    <ZUTAT>als Beilage Reis, Kartoffeln, Brot, Nudeln...</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>1 kg Gehacktes wie in Boulettenmasse beschrieben w&#252;rzen</ITEM>
+    <ITEM>aus der Masse kleine Bouletten krossig anbraten&gt;</ITEM>
+    <ITEM>die 3 T&#252;ten Maggi fix nach Anleitung kochen</ITEM>
+    <ITEM>dazu dann die Schlagsahne, den &#189; Becher saure Sahne, die Champignons ohne
+    Saft und die Zwiebel hinzutun und alles zusammen aufkochen lassen</ITEM>
+    <ITEM>zum Schluss die Bouletten hinzu und das Ganze einen Tag ziehen lassen</ITEM>
+    <ITEM>als Beilage kann man dann Reis, Kartoffeln, Brot, Nudeln...w&#228;hlen</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Rotk&#228;ppchenkuchen</REZEPTNAME>
+  <KATEGORIE>Backen</KATEGORIE>
+  <AUTOR></AUTOR>
+  <BEWERTUNG></BEWERTUNG>
+  <ANZAHLPERSONEN></ANZAHLPERSONEN>
+  <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>100 g Butter</ZUTAT>
+    <ZUTAT>100 g Zucker</ZUTAT>
+    <ZUTAT>200 g Mehl</ZUTAT>
+    <ZUTAT>3 TL Backpulver</ZUTAT>
+    <ZUTAT>3 Eier</ZUTAT>
+    <ZUTAT>1 Glas Sauerkirschen</ZUTAT>
+    <ZUTAT>2 EL Nutella oder Kakao</ZUTAT>
+    <ZUTAT>500 g Quark</ZUTAT>
+    <ZUTAT>50 g Zucker</ZUTAT>
+    <ZUTAT>1- 3 T&#252;ten Vanillezucker</ZUTAT>
+    <ZUTAT>2 Becher Schlagsahne</ZUTAT>
+    <ZUTAT>3 T&#252;ten Sahnesteif</ZUTAT>
+    <ZUTAT>1 T&#252;te Tortenguss</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Butter, 100g Zucker, Mehl, Backpulver und Eier mit dem Mixer
+    verr&#252;hren.</ITEM>
+    <ITEM>Eine H&#228;lfte des Teiges in eine gefettete Springform geben und mit den
+    abgetropften Sauerkirschen belegen.</ITEM>
+    <ITEM>Unter die zweite H&#228;lfte die Nutella oder den Kakao unterr&#252;hren und
+    auf den Kirschen verteilen.</ITEM>
+    <ITEM>Backzeit bei 180 &#176;C 45 bis 50 Minuten; gut ausk&#252;hlen lassen.</ITEM>
+    <ITEM>F&#252;r den Belag den Quark, die 50 g Zucker, einmal Sahnesteif und
+    Vanillezucker miteinander verr&#252;hren, Schlagsahne mit zweimal Sahnesteif schlagen
+    und unter die Quarkmasse heben. Das Ganze auf dem fertigen Boden verteilen.</ITEM>
+    <ITEM>&#188;l Kirchsaft mit dem Tortenguss anr&#252;hren, aufkochen und noch hei&#223;
+    &#252;ber die Torte geben.</ITEM>
+    <ITEM>Torte f&#252;nf bis sechs Stunden in den K&#252;hlschrank stellen.</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

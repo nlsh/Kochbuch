@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>H&#228;hnchengeschnetzeltes Stroganoff</REZEPTNAME>
+  <KATEGORIE>T&#246;pfe</KATEGORIE>
+  <AUTOR></AUTOR>
+  <BEWERTUNG></BEWERTUNG>
+ <ANZAHLPERSONEN></ANZAHLPERSONEN>
+ <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>1,2 kg H&#228;hnchenbrustfilet</ZUTAT>
+    <ZUTAT>50 g Weizenmehl</ZUTAT>
+    <ZUTAT>8 Essl&#246;ffel Speise&#246;l</ZUTAT>
+    <ZUTAT>Salz und Pfeffer</ZUTAT>
+    <ZUTAT>4 Zwiebeln</ZUTAT>
+    <ZUTAT>2 Stangen Porree ( Lauch, 400 g)</ZUTAT>
+    <ZUTAT>40 g Butter</ZUTAT>
+    <ZUTAT>6 gro&#223;e Gew&#252;rzgurken</ZUTAT>
+    <ZUTAT>250 ml ( &#188; l) Schlagsahne</ZUTAT>
+    <ZUTAT>400 g Schmand</ZUTAT>
+    <ZUTAT>100 ml Weiswein</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>H&#228;hnchenbrustfilet kurz unter flie&#223;endem kaltem Wasser absp&#252;len,
+    trockentupfen, in Streifen schneiden und mit Mehl best&#228;uben.</ITEM>
+    <ITEM>Etwas von dem &#214;l erhitzen, die Fleischstreifen in Portionen darin anbraten, mit
+    Salz und Pfeffer bestreuen und herausnehmen.</ITEM>
+    <ITEM>Zwiebeln abziehen, w&#252;rfeln und in dem verbliebenem Fett and&#252;nsten. Porree
+    putzen, l&#228;ngst halbieren, waschen und in Streifen schneiden. Beides in dem
+    verbliebenen Fett mit zerlassener Butter and&#252;nsten.</ITEM>
+    <ITEM>Gurken in Streifen schneiden, mit Sahne und Schmand in einem gro&#223;en Topf
+    mischen. Das Fleisch und Weiswein hineingeben und zum Kochen bringen. Mit Salz und Pfeffer
+    abschmecken.</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

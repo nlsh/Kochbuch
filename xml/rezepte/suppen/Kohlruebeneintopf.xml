@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Kohlr&#252;beneintopf</REZEPTNAME>
+  <KATEGORIE>Eintopf</KATEGORIE>
+  <AUTOR>Mei&#223;ner, Christa</AUTOR>
+  <BEWERTUNG>*****</BEWERTUNG>
+  <ANZAHLPERSONEN></ANZAHLPERSONEN>
+  <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>1 mittelgro&#223;e Kohlr&#252;be</ZUTAT>
+    <ZUTAT>1 gro&#223;e M&#246;hre</ZUTAT>
+    <ZUTAT>6 mittlere Kartoffeln</ZUTAT>
+    <ZUTAT>1 kg Rindersuppenfleisch {optional &#252;ber Nacht gew&#228;ssertes
+    P&#246;kelfleisch}</ZUTAT>
+    <ZUTAT>3 Essl&#246;ffel Instant- Gem&#252;sebr&#252;he</ZUTAT>
+    <ZUTAT>1 bis 2 Teel&#246;ffel Majoran</ZUTAT>
+    <ZUTAT>&#188; Teel&#246;ffel Thymian</ZUTAT>
+    <ZUTAT>1 Lorbeerblatt</ZUTAT>
+    <ZUTAT>gemahlenen Pfeffer</ZUTAT>
+    <ZUTAT>1 bis 2 Teel&#246;ffel Salz</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Fleisch in ca. anderthalb Liter Wasser mit der Instandbr&#252;he 2 Stunden
+    kochen lassen und dann die Br&#252;he vom Fleisch trennen.</ITEM>
+    <ITEM>Danach die gesch&#228;lte und in W&#252;rfeln geschnittene Kohlr&#252;be und
+    M&#246;hre mit dem Lorbeerblatt in der Fleischbr&#252;he etwa 30 Minuten kochen
+    lassen.</ITEM>
+    <ITEM>Kartoffeln in nicht zuviel Salzwasser 20 Minuten mit dem Majoran und dem
+    Thymian abkochen.</ITEM>
+    <ITEM>Sind Kohlr&#252;ben sowie die Kartoffeln gar, beides mit den jeweiligen
+    Fl&#252;ssigkeiten zusammenf&#252;gen und kurzstampfen.</ITEM>
+    <ITEM>Das Fleisch in W&#252;rfel schneiden und unter die Kohlr&#252;ben
+    mischen.</ITEM>
+    <ITEM>Mit dem Pfeffer abschmecken - ist die Suppe zu dick, kann sie mit
+    Gem&#252;sebr&#252;he verd&#252;nnt werden.</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

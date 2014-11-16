@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Wirsingtopf mit Schweinefleisch</REZEPTNAME>
+  <KATEGORIE>Eintopf</KATEGORIE>
+  <AUTOR>BILD Woche</AUTOR>
+  <BEWERTUNG>*****</BEWERTUNG>
+  <ANZAHLPERSONEN>4</ANZAHLPERSONEN>
+  <ZUBEREITUNGSZEIT>2 Stunden</ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>500 g Schweinenacken</ZUTAT>
+    <ZUTAT>10 gr&#252;ne Pfefferk&#246;rner</ZUTAT>
+    <ZUTAT>2 Zwiebeln</ZUTAT>
+    <ZUTAT>1 Bund Suppengr&#252;n</ZUTAT>
+    <ZUTAT>1- 2 TL gek&#246;rnte Br&#252;he</ZUTAT>
+    <ZUTAT>2- 3 TL Curry</ZUTAT>
+    <ZUTAT>1 Messerspitze Safranpulver</ZUTAT>
+    <ZUTAT>500 g Wirsingkohl</ZUTAT>
+    <ZUTAT>200 g Champignons</ZUTAT>
+    <ZUTAT>Pfeffer, Salz</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Schweinenacken kalt absp&#252;len und zusammen mit Pfefferk&#246;rnern,
+    Zwiebelw&#252;rfel, gek&#246;rnter Br&#252;he, Curry und Safran ca. 60 Minuten Kochen
+    lassen.</ITEM>
+    <ITEM>Zwischenzeitlich den Wirsing putzen, waschen und in Streifen schneiden, das
+    Suppengr&#252;n putzen und zerkleinern, sowie die Pilze putzen und in Scheiben
+    schneiden.</ITEM>
+    <ITEM>Nach den 60 Minuten Fleischkochen, dieses herausnehmen, vom Knochen l&#246;sen,
+    in Scheiben, dann in Streifen schneiden und wieder zur&#252;ck in den Topf
+    geben.</ITEM>
+    <ITEM>Das Suppengr&#252;n ohne M&#246;hren und den vorbereiteten Wirsing mit in den
+    Topf geben und 30 Minuten garen lassen.</ITEM>
+    <ITEM>Nach 15 Minuten die M&#246;hren hinzugeben und zum Schluss die Champignons 5
+    Minuten in der Suppe garen lassen.</ITEM>
+    <ITEM>Zu guter Letzt alles noch einmal mit Salz und Pfeffer abschmecken.</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

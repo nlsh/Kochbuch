@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Kartoffelsalat</REZEPTNAME>
+  <KATEGORIE>Kalte K&#252;che</KATEGORIE>
+  <AUTOR>Christa Meissner</AUTOR>
+  <BEWERTUNG>*****</BEWERTUNG>
+ <ANZAHLPERSONEN></ANZAHLPERSONEN>
+ <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>2,5 kg Kartoffeln ( festkochende)</ZUTAT>
+    <ZUTAT>1 kleines Glas Mayonnaise</ZUTAT>
+    <ZUTAT>1 Becher Schmand</ZUTAT>
+    <ZUTAT>500 g Fleischsalat</ZUTAT>
+    <ZUTAT>1 Essl&#246;ffel Salz</ZUTAT>
+    <ZUTAT>Pfeffer</ZUTAT>
+    <ZUTAT>1 Essl&#246;ffel Zucker</ZUTAT>
+    <ZUTAT>Gurkenwasser mit etwas Essig</ZUTAT>
+    <ZUTAT>Dill</ZUTAT>
+    <ZUTAT>1 Teel&#246;ffel Senf</ZUTAT>
+    <ZUTAT>Zwiebeln</ZUTAT>
+    <ZUTAT>Apfel</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Kartoffeln sch&#228;len und kochen</ITEM>
+    <ITEM>danach die Kartoffeln abk&#252;hlen lassen und in Scheiben schneiden</ITEM>
+    <ITEM>jetzt das kleine Glas Mayonnaise, den Becher Schmand, den Fleischsalat, gehackte
+    Zwiebeln und einen gew&#252;rfelten Apfel ( ohne Schale) dazugeben und das Ganze mit Salz,
+    Pfeffer Gurkenwasser mit etwas Essig, Dill, sowie mit einem Teel&#246;ffel Senf nach
+    eigenem Geschmack w&#252;rzen</ITEM>
+    <ITEM>zum Schluss alles einen Tag k&#252;hl stehen lassen und fertig</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

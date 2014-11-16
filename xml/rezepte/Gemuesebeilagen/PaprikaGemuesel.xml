@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Paprikagem&#252;se</REZEPTNAME>
+  <KATEGORIE>Gem&#252;sebeilagen</KATEGORIE>
+  <AUTOR>Mei&#223;ner, Christa</AUTOR>
+  <BEWERTUNG>*****</BEWERTUNG>
+  <ANZAHLPERSONEN></ANZAHLPERSONEN>
+  <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>6 Schoten Paprika</ZUTAT>
+    <ZUTAT>1 große Zwiebel</ZUTAT>
+    <ZUTAT>3 Knoblauchzehen</ZUTAT>
+    <ZUTAT>2 Esslöffel Sojasauce</ZUTAT>
+    <ZUTAT>1 1/2 Esslöffel Weinessig</ZUTAT>
+    <ZUTAT>Cinagewürzpulver, oder Paprika</ZUTAT>
+    <ZUTAT>Brühpulver</ZUTAT>
+    <ZUTAT>Currypulver</ZUTAT>
+    <ZUTAT>Salz</ZUTAT>
+    <ZUTAT>Zucker</ZUTAT>
+    <ZUTAT>Öl</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Paprikaschoten vierteln und in Stücke schneiden, aber nicht zu klein</ITEM>
+    <ITEM>Die Zwiebeln vierteln oder in Scheiben schneiden, je nach Geschmack</ITEM>
+    <ITEM>Die Paprikaschoten mit Knoblauchzehen, der Sojasauce und dem Weinessig marinieren und mit dem Chinagewürzpulver würzen</ITEM>
+    <ITEM>Je nach Geschmack etwas Zucker und Salz hinzugeben</ITEM>
+    <ITEM>Die Zwiebeln jetzt mit Öl andpnsten und alles zusammen ca. 20min garren</ITEM>
+    <ITEM>eventuell nach Bedarf mit warmen Wasser auffüllen (Schmorvorgang)</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

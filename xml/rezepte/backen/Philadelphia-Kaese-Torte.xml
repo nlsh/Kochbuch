@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Philadelphia- K&#228;se- Torte</REZEPTNAME>
+  <KATEGORIE>Backen</KATEGORIE>
+  <AUTOR></AUTOR>
+  <BEWERTUNG></BEWERTUNG>
+  <ANZAHLPERSONEN></ANZAHLPERSONEN>
+  <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>&#189; Wiener Boden ( auch ein anderer ist m&#246;glich)</ZUTAT>
+    <ZUTAT>200 g Philadelphia Frischk&#228;se</ZUTAT>
+    <ZUTAT>1 Tasse Zucker</ZUTAT>
+    <ZUTAT>1 Zitrone</ZUTAT>
+    <ZUTAT>1 P&#228;ckchen G&#246;tterspeise ( Zitronengeschmack)</ZUTAT>
+    <ZUTAT>1 P&#228;ckchen Vanillezucker</ZUTAT>
+    <ZUTAT>600 g s&#252;&#223;e Sahne</ZUTAT>
+    <ZUTAT>2 Dosen Mandarinen</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Frischk&#228;se, Zucker, Zitronensaft, geriebene Zitronenschale und die
+    Mandarinen ( ohne den Saft) gut verr&#252;hren</ITEM>
+    <ITEM>eine Tasse Mandarinensaft mit einem P&#228;ckchen G&#246;tterspeise
+    erw&#228;rmen- nicht kochen!!! und nach erkalten unterr&#252;hren</ITEM>
+    <ITEM>als n&#228;chstes die Sahne steif schlagen und unterheben</ITEM>
+    <ITEM>jetzt den Wiener Boden in eine Springform geben und die vorbereitete
+    K&#228;semasse gleichm&#228;&#223;ig dar&#252;ber verteilen</ITEM>
+    <ITEM>danach sofort in den K&#252;hlschrank</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

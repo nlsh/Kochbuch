@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Paprikapfanne mit Schweinekamm</REZEPTNAME>
+  <KATEGORIE>Backofen</KATEGORIE>
+  <AUTOR></AUTOR>
+  <BEWERTUNG></BEWERTUNG>
+ <ANZAHLPERSONEN></ANZAHLPERSONEN>
+ <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>12 Scheiben Kamm</ZUTAT>
+    <ZUTAT>3- 4 Beutel Paprika</ZUTAT>
+    <ZUTAT>1 Netz Zwiebeln</ZUTAT>
+    <ZUTAT>1 Flasche Heinz Ketchup</ZUTAT>
+    <ZUTAT>2 Becher Cr&#232;me fra&#238;che</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>als erstes die Schweinekammscheiben salzen und pfeffern</ITEM>
+    <ITEM>den Paprika in Streifen schneiden und die Zwiebeln grob w&#252;rfeln</ITEM>
+    <ITEM>in einem Br&#228;ter eine Schicht Paprika auslegen, &#252;ber diese Schicht die
+    gew&#252;rzten Kammscheiben legen ( eine Lage), darauf die Zwiebeln und noch eine Schicht
+    Paprika dazu, &#252;ber das Ganze jetzt eine halbe Flasche Ketchup gie&#223;en, nun legt
+    man wiederum eine Schicht aus den Kammscheiben dar&#252;ber, gibt wieder Zwiebeln und
+    Paprika dazu und leert &#252;ber allen den Rest der Ketchupflasche aus ( eventuell die
+    Flasche mit etwas Wasser aussp&#252;len)</ITEM>
+    <ITEM>nun die Cr&#232;me fra&#238;che dazugeben und den Br&#228;ter bei mittlerer Hitze 1
+    &#189; bis 2 Stunden in den Ofen stellen</ITEM>
+    <ITEM>am n&#228;chsten Tag wird das Gericht lediglich noch aufgew&#228;rmt und zusammen
+    mit Reis oder Franzosenbrot serviert</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

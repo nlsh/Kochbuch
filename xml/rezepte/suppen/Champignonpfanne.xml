@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Champignonpfanne</REZEPTNAME>
+  <KATEGORIE>Pfannen</KATEGORIE>
+  <AUTOR>tina</AUTOR>
+  <BEWERTUNG>****</BEWERTUNG>
+  <ANZAHLPERSONEN>4</ANZAHLPERSONEN>
+  <ZUBEREITUNGSZEIT>ca. 1 Stunde</ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>400 g Rinderfilet</ZUTAT>
+    <ZUTAT>375 g Champignons</ZUTAT>
+    <ZUTAT>250 g Tomaten</ZUTAT>
+    <ZUTAT>250 g M&#246;hren</ZUTAT>
+    <ZUTAT>1 Bund Lauchzwiebeln</ZUTAT>
+    <ZUTAT>40 g Butterschmalz</ZUTAT>
+    <ZUTAT>Salz</ZUTAT>
+    <ZUTAT>Pfeffer</ZUTAT>
+    <ZUTAT>400 g Schlagsahne</ZUTAT>
+    <ZUTAT>3 Wacholderbeeren</ZUTAT>
+    <ZUTAT>2 cl trockenen Sherry</ZUTAT>
+    <ZUTAT>&#189; Bund Petersilie</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Fleisch in Streifen schneiden, Champignons putzen</ITEM>
+    <ITEM>Tomaten kreuzweise einritzen, mit kochendem Wasser &#252;berbr&#252;hen,
+    enth&#228;uten, vierteln und entkernen, dann die Tomatenviertel quer halbieren</ITEM>
+    <ITEM>M&#246;hren sch&#228;len und in d&#252;nne Scheiben schneiden, Lauchzwiebeln
+    putzen und in ca. 1 cm gro&#223;e St&#252;cke schneiden</ITEM>
+    <ITEM>Butterschmalz in einer Pfanne erhitzen und das Fleisch anbraten</ITEM>
+    <ITEM>Nach dem anbraten das Fleisch herausnehmen und w&#252;rzen, die Champignons im
+    hei&#223;em Fett goldbraun anbraten</ITEM>
+    <ITEM>Gem&#252;se- bis auf die Tomaten- zuf&#252;gen, anschmoren, w&#252;rzen und mit
+    Sahne abl&#246;schen</ITEM>
+    <ITEM>8- 10 Minuten einkochen lassen, dann Fleisch und Tomaten zuf&#252;gen und
+    erhitzen</ITEM>
+    <ITEM>Wacholderbeeren in einem M&#246;rser fein zersto&#223;en, Sahneso&#223;e mit
+    Salz, Pfeffer, Wacholderbeeren und Sherry abschmecken</ITEM>
+    <ITEM>Petersilie in feine Streifen schneiden und &#252;ber die Pilzpfanne
+    streuen.</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Pizzasuppe</REZEPTNAME>
+  <KATEGORIE>Suppen</KATEGORIE>
+  <AUTOR></AUTOR>
+  <BEWERTUNG></BEWERTUNG>
+ <ANZAHLPERSONEN></ANZAHLPERSONEN>
+ <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>3 Dosen gesch&#228;lte Tomaten</ZUTAT>
+    <ZUTAT>3 gelbe Paprikaschoten</ZUTAT>
+    <ZUTAT>2 Stangen Porree</ZUTAT>
+    <ZUTAT>750 ml Gem&#252;sebr&#252;he</ZUTAT>
+    <ZUTAT>1 Glas Champignons ( 540g ) in Scheiben</ZUTAT>
+    <ZUTAT>Salz und Pfeffer</ZUTAT>
+    <ZUTAT>gerebelter Oregano</ZUTAT>
+    <ZUTAT>250 g Kr&#228;uter- Schmelzk&#228;se</ZUTAT>
+    <ZUTAT>&#189; Bund Basilikum</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Die Tomaten zusammen mit der Fl&#252;ssigkeit in einem gro&#223;en Topf geben,
+    p&#252;rieren und durch ein Sieb streichen.</ITEM>
+    <ITEM>Die Paprikaschoten halbieren, entstielen, entkernen, waschen und in Scheiben
+    schneiden. Den Porree putzen, halbieren und in d&#252;nne Ringe schneiden.</ITEM>
+    <ITEM>Die Paprikastreifen zusammen mit den Porreeringen zu den Tomaten geben und 10- 15
+    min k&#246;cheln lassen.</ITEM>
+    <ITEM>Danach die Br&#252;he und die Champignons hinzugeben und aufkochen lassen.</ITEM>
+    <ITEM>Den Kr&#228;uter- Schmelzk&#228;se mit etwas Suppe glattr&#252;hren, dann unter die
+    restliche Suppe r&#252;hren, erw&#228;rmen und mit Salz, Pfeffer und dem gerebelten
+    Oregano abschmecken.
+    <ZEILENUMBRUCH />
+    <FETT>( Achtung ! ! ! Die Suppe darf jetzt nicht mehr kochen ! ! ! )</FETT></ITEM>
+    <ITEM>Zum Schluss die abgesp&#252;lten und abgetrockneten Basilikumbl&#228;ttchen zerzupft
+    auf die in Tellern servierte Suppe streuen.</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

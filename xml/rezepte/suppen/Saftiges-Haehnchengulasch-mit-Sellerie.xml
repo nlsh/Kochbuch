@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/Rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Saftiges H&#228;hnchengulasch mit Sellerie</REZEPTNAME>
+  <KATEGORIE>Suppen</KATEGORIE>
+  <AUTOR></AUTOR>
+  <BEWERTUNG>*****</BEWERTUNG>
+  <ANZAHLPERSONEN>4</ANZAHLPERSONEN>
+  <ZUBEREITUNGSZEIT>50 Minuten</ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>400 g H&#228;hnchenbrustfilet</ZUTAT>
+    <ZUTAT>2 kleine Zwiebeln</ZUTAT>
+    <ZUTAT>400 g Stangensellerie</ZUTAT>
+    <ZUTAT>&#189; Bund Lauchzwiebeln</ZUTAT>
+    <ZUTAT>1 - 2 EL. Butter, Salz</ZUTAT>
+    <ZUTAT>1 Dose ( 425 ml) Aprikosen</ZUTAT>
+    <ZUTAT>2 EL. &#214;l, getrockneter Chili</ZUTAT>
+    <ZUTAT>1 EL. Tomatenmark</ZUTAT>
+    <ZUTAT>1 EL. Mehl</ZUTAT>
+    <ZUTAT>1 EL. Pfefferk&#246;rner</ZUTAT>
+    <ZUTAT>4 EL. Ketchup</ZUTAT>
+    <ZUTAT>100 g Schlagsahne</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Filet w&#252;rfeln, Zwiebeln halbieren, Sellerie und Lauchzwiebeln in
+    St&#252;cke schneiden</ITEM>
+    <ITEM>Butter erhitzen, Gem&#252;se darin ca. 2 Minuten d&#252;nsten, salzen, mit 200
+    ml Wasser abl&#246;schen und kurz aufkochen lassen.</ITEM>
+    <ITEM>Aprikosen abtropfen lassen und in St&#252;cke schneiden.</ITEM>
+    <ITEM>Filet und Zwiebeln im &#214;l anbraten, w&#252;rzen, Tomatenmark zuf&#252;gen
+    und mit anschwitzen, mit Mehl best&#228;uben, mit &#189; Liter Wasser abl&#246;schen,
+    Ketchup hinzuf&#252;gen und 30 Minuten schmoren.</ITEM>
+    <ITEM>Gem&#252;se mit Fl&#252;ssigkeit, Pfirsichen, Pfeffer und Sahne in die
+    So&#223;e geben, aufkochen lassen und erneut abschmecken.</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

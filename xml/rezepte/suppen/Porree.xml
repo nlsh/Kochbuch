@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE REZEPT SYSTEM "../Rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/Rezepte.xsl" ?>
+<REZEPT>
+ <REZEPTNAME>Porree- Suppe</REZEPTNAME>
+ <KATEGORIE>Suppen</KATEGORIE>
+ <AUTOR></AUTOR>
+ <BEWERTUNG>*****</BEWERTUNG>
+ <ANZAHLPERSONEN></ANZAHLPERSONEN>
+ <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+ <ZUTATEN>
+  <ZUTAT>4 Stangen Porree</ZUTAT>
+  <ZUTAT>500 g Gehacktes</ZUTAT>
+  <ZUTAT>2 Becher Schmelzk&#228;se, z.B. Milkana</ZUTAT>
+  <ZUTAT>2 Br&#252;hw&#252;rfel oder 2 Teel&#246;ffel Instantbr&#252;he</ZUTAT>
+  <ZUTAT>etwas Salz</ZUTAT>
+  <ZUTAT>nach Geschmack Champignons</ZUTAT>
+ </ZUTATEN>
+ <ZUBEREITUNG>
+  <ITEM>Porree klein schneiden und in Salzwasser mit Br&#252;he garen</ITEM>
+  <ITEM>Gehacktes w&#252;rzen, anbraten, dann zu dem Porree geben und zum Schluss den Schmelzk&#228;se dazu</ITEM>
+ </ZUBEREITUNG>
+</REZEPT>
