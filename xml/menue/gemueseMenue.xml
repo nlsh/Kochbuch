@@ -15,32 +15,32 @@
     <LINKNAME>
     <FETT>Gem&#252;sebeilagen</FETT>
     <ZEILENUMBRUCH />&#160;</LINKNAME>
-    <LINKADRESSE>gemuesebeilagenmenue.xml</LINKADRESSE>
+    <LINKADRESSE>gemueseMenue.xml</LINKADRESSE>
     <LINKAUSGABE>Inhalt</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Paprikagemüse</LINKNAME>
-    <LINKADRESSE>../rezepte/Gemuesebeilagen/PaprikaGemuesel.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/gemuese/paprikaGemuese.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Rosenkohl</LINKNAME>
-    <LINKADRESSE>../rezepte/Gemuesebeilagen/Rosenkohl.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/gemuese/rosenKohl.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Rotkohl</LINKNAME>
-    <LINKADRESSE>../rezepte/Gemuesebeilagen/Rotkohl.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/gemuese/rotKohl.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Sauerkraut</LINKNAME>
-    <LINKADRESSE>../rezepte/Gemuesebeilagen/Sauerkraut.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/gemuese/sauerKraut.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Spargel</LINKNAME>
-    <LINKADRESSE>../rezepte/Gemuesebeilagen/Spargel.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/gemuese/spargel.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
 </MENUE>

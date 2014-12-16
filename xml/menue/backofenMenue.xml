@@ -15,42 +15,42 @@
     <LINKNAME>
     <FETT>im Backofen</FETT>
     <ZEILENUMBRUCH />&#160;</LINKNAME>
-    <LINKADRESSE>imbackofenmenue.xml</LINKADRESSE>
+    <LINKADRESSE>backofenMenue.xml</LINKADRESSE>
     <LINKAUSGABE>Inhalt</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Backofensuppe</LINKNAME>
-    <LINKADRESSE>../rezepte/imbackofen/Backofensuppe.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/backofen/backOfenSuppe.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Eine Karre Mist</LINKNAME>
-    <LINKADRESSE>../rezepte/imbackofen/Eine-Karre-Mist.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/backofen/eineKarreMist.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>H&#228;hnchen portugiesisch</LINKNAME>
-    <LINKADRESSE>../rezepte/imbackofen/Haehnchen-portugiesisch.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/backofen/haehnchenPortugiesisch.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Kaukasisches Reiterfleisch</LINKNAME>
-    <LINKADRESSE>../rezepte/imbackofen/Kaukasisches-Reiterfleisch.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/backofen/kaukasischesReiterFleisch.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Paprikapfanne mit Schweinekamm</LINKNAME>
-    <LINKADRESSE>../rezepte/imbackofen/Paprikapfanne-mit-Schweinekamm.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/backofen/paprikaPfanneMitSchweineKamm.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>R&#228;uberhachbraten</LINKNAME>
-    <LINKADRESSE>../rezepte/imbackofen/Raeuberhackbraten.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/backofen/raeuberHackBraten.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Saftige Schnitzel- Pizza</LINKNAME>
-    <LINKADRESSE>../rezepte/imbackofen/Saftige-Schnitzel-Pizza.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/backofen/saftigeSchnitzelPizza.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
 </MENUE>

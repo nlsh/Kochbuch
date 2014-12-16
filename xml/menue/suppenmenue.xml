@@ -15,92 +15,92 @@
     <LINKNAME>
     <FETT>Pfannen, Suppen und Eint&#246;pfe</FETT>
     <ZEILENUMBRUCH />&#160;</LINKNAME>
-    <LINKADRESSE>suppenmenue.xml</LINKADRESSE>
+    <LINKADRESSE>suppenMenue.xml</LINKADRESSE>
     <LINKAUSGABE>Inhalt</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Bigosch</LINKNAME>
-    <LINKADRESSE>../rezepte/suppen/Bigosch.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/bigosch.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Champignonpfanne</LINKNAME>
-    <LINKADRESSE>../rezepte/suppen/Champignonpfanne.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/champignonPfanne.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Kartoffelsuppe mit Aal</LINKNAME>
-    <LINKADRESSE>../rezepte/suppen/Kartoffelsuppe-mit-Aal.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/kartoffelSuppeMitAal.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Kohlr&#252;beneintopf</LINKNAME>
-    <LINKADRESSE>../rezepte/suppen/Kohlruebeneintopf.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/kohlRuebenEintopf.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>K&#252;rbis- Suppe</LINKNAME>
-    <LINKADRESSE>../rezepte/suppen/Kurbissuppe.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/kurbisSuppe.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Linseneintopf</LINKNAME>
-    <LINKADRESSE>../rezepte/suppen/Linseneintopf.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/linsenEintopf.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Pikante Gyros Suppe</LINKNAME>
-    <LINKADRESSE>../rezepte/suppen/Pikante-Gyros-Suppe.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/pikanteGyrosSuppe.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Pizza- Suppe</LINKNAME>
-    <LINKADRESSE>../rezepte/suppen/Pizzasuppe.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/pizzaSuppe.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Porree- Suppe</LINKNAME>
-    <LINKADRESSE>../rezepte/suppen/Porree.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/porreeSuppe.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Putengeschnetzeltes mit Kr&#228;uterk&#228;se</LINKNAME>
-    <LINKADRESSE>../rezepte/suppen/Putengeschnetzeltes-mit-Kraeuterkaese.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/putenGeschnetzeltesMitKraeuterkaese.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Rittersuppe</LINKNAME>
-    <LINKADRESSE>../rezepte/suppen/Rittersuppe.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/ritterSuppe.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Russischer Hackfleischtopf</LINKNAME>
-    <LINKADRESSE>../rezepte/suppen/Russischer-Hackfleischtopf.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/russischerHackfleischTopf.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Russische Sauerkrautsuppe</LINKNAME>
-    <LINKADRESSE>../rezepte/suppen/Russische-Sauerkrautsuppe.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/russischeSauerKrautSuppe.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Saftiges H&#228;hnchengulasch mit Sellerie</LINKNAME>
-    <LINKADRESSE>../rezepte/suppen/Saftiges-Haehnchengulasch-mit-Sellerie.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/saftigesHaehnchenGulaschMitSellerie.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Soljanka ala Oma Christa</LINKNAME>
-    <LINKADRESSE>../rezepte/suppen/Gehaltvolle_Soljanka.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/gehaltvolleSoljanka.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Weisskohleintopf</LINKNAME>
-    <LINKADRESSE>../rezepte/suppen/Weisskohleintopf.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/weissKohlEintopf.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Wirsingtopf mit Schweinefleisch</LINKNAME>
-    <LINKADRESSE>../rezepte/suppen/Wirsingtopf_mit_Schweinefleisch.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/suppen/wirsingTopfMitSchweinefleisch.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
 </MENUE>

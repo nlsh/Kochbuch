@@ -15,27 +15,27 @@
     <LINKNAME>
     <FETT>Salate</FETT>
     <ZEILENUMBRUCH />&#160;</LINKNAME>
-    <LINKADRESSE>salatemenue.xml</LINKADRESSE>
+    <LINKADRESSE>salateMenue.xml</LINKADRESSE>
     <LINKAUSGABE>Inhalt</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Bohnensalat</LINKNAME>
-    <LINKADRESSE>../rezepte/salate/Bohnensalat.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/salate/bohnenSalat.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Gurkensalat</LINKNAME>
-    <LINKADRESSE>../rezepte/salate/Gurkensalat.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/salate/gurkenSalat.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Kartoffelsalat</LINKNAME>
-    <LINKADRESSE>../rezepte/salate/Kartoffelsalat.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/salate/kartoffelSalat.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Wei&#223;kohlsalat</LINKNAME>
-    <LINKADRESSE>../rezepte/salate/Weisskohlsalat.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/salate/weissKohlSalat.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
 </MENUE>

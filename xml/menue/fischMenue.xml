@@ -2,7 +2,7 @@
 <!DOCTYPE MENUE SYSTEM "menue.dtd">
 <?xml-stylesheet type="text/xsl" href="../../xml/dtd_xsl/menue.xsl" ?>
 <MENUE>
- <MENUENAME>Grillmen&#252;</MENUENAME>
+ <MENUENAME>Fischmen&#252;</MENUENAME>
  <LINK>
   <LINKNAME>
   <FETT>Kochbuch</FETT>
@@ -13,14 +13,14 @@
  </LINK>
  <LINK>
   <LINKNAME>
-  <FETT>Auf dem Grill</FETT>
+  <FETT>Fischgerichte</FETT>
   <ZEILENUMBRUCH />&#160;</LINKNAME>
-  <LINKADRESSE>grillMenue.xml</LINKADRESSE>
+  <LINKADRESSE>fischMenue.xml</LINKADRESSE>
   <LINKAUSGABE>Inhalt</LINKAUSGABE>
  </LINK>
  <LINK>
-  <LINKNAME>Grillschnitte</LINKNAME>
-  <LINKADRESSE>../rezepte/grill/grillSchnitte.xml</LINKADRESSE>
+  <LINKNAME>Karpfen in Biersoße</LINKNAME>
+  <LINKADRESSE>../rezepte/fisch/karpfenInBiersosse.xml</LINKADRESSE>
   <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
  </LINK>
 </MENUE>

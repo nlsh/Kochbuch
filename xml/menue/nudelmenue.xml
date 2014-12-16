@@ -15,12 +15,12 @@
     <LINKNAME>
     <FETT>Nudelgerichte</FETT>
     <ZEILENUMBRUCH />&#160;</LINKNAME>
-    <LINKADRESSE>nudelmenue.xml</LINKADRESSE>
+    <LINKADRESSE>nudelMenue.xml</LINKADRESSE>
     <LINKAUSGABE>Inhalt</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Garnelen in Sahnesauce</LINKNAME>
-    <LINKADRESSE>../rezepte/Nudeln/Garnelen_mit_Sahnesauce.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/nudeln/garnelenMitSahneSauce.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
 </MENUE>

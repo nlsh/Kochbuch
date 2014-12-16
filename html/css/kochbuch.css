@@ -40,7 +40,7 @@ img {
 }
 
 body {
-    background-image:url(../../img/fun_bak.gif);
+    background-image:url(../../img/design/fun_bak.gif);
     background-attachment: fixed;
     color: #000000;
     margin: 0;
@@ -50,14 +50,6 @@ body {
 
 td  {
     vertical-align: top;
-}
-
-.navigation {
-    font-family: "verdana";
-    font-size: 10px;
-    background-image:url(img/bg_nav.gif);
-    text-align: right;
-    line-height:17px;
 }
 
 /* CSS- Eigenschaften des Head- Frames */
@@ -73,7 +65,7 @@ td  {
 
 #frame_head .online {
     background-repeat:repeat-x;
-    background: url(../../img/hg1_m.gif);
+    background: url(../../img/design/hg1_m.gif);
     height: 39px;
 }
 
@@ -90,14 +82,14 @@ td  {
 #frame_head .online-right {
     float: right;
     width: 178px;
-    background-image:url(../../img/fun_bak.gif);
+    background-image:url(../../img/design/fun_bak.gif);
     background-attachment: fixed;
     height: 33px;
 }
 
 #frame_head .copyright {
     font-size: 7pt;
-    background: url(../..img/hg2.gif);
+    background: url(../../img/design/hg2.gif);
     line-height:29px;
     background-repeat:no-repeat;
     text-align: right;
@@ -192,6 +184,10 @@ td  {
 #zubereitung li div {
     display: table-cell;
     padding-right: 10px;
+}
+
+.bild {
+
 }
 
 /* (c) 2014 nils heinold

@@ -2,7 +2,7 @@
 <!DOCTYPE REZEPT SYSTEM "../../dtd_xsl/rezept.dtd">
 <?xml-stylesheet type="text/xsl" href="../../dtd_xsl/rezepte.xsl" ?>
 <REZEPT>
-  <REZEPTNAME></REZEPTNAME>
+  <REZEPTNAME>Kokosmakronen</REZEPTNAME>
   <KATEGORIE>Backen</KATEGORIE>
   <AUTOR></AUTOR>
   <BEWERTUNG>*****</BEWERTUNG>

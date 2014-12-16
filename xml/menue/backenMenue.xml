@@ -15,62 +15,62 @@
     <LINKNAME>
     <FETT>Backen</FETT>
     <ZEILENUMBRUCH />&#160;</LINKNAME>
-    <LINKADRESSE>backenmenuemenue.xml</LINKADRESSE>
+    <LINKADRESSE>backenMenue.xml</LINKADRESSE>
     <LINKAUSGABE>Inhalt</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Ananas- Mandarinen- Torte</LINKNAME>
-    <LINKADRESSE>../rezepte/backen/Ananas-Mandarinen-Torte.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/backen/ananasMandarinenTorte.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Biskuitboden</LINKNAME>
-    <LINKADRESSE>../rezepte/backen/Biskuitboden.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/backen/biskuitBoden.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>K&#228;setorte ohne Boden</LINKNAME>
-    <LINKADRESSE>../rezepte/backen/Kaeseohneboden.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/backen/kaeseOhneBoden.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Kokosmakronen</LINKNAME>
-    <LINKADRESSE>../rezepte/backen/Kokosmakronen.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/backen/kokosMakronen.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Kokospl&#228;tzchen</LINKNAME>
-    <LINKADRESSE>../rezepte/backen/Kokosplaetzchen.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/backen/kokosPlaetzchen.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Philadelphie- K&#228;se- Torte</LINKNAME>
-    <LINKADRESSE>../rezepte/backen/Philadelphia-Kaese-Torte.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/backen/philadelphiaKaeseTorte.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Raffaello Torte</LINKNAME>
-    <LINKADRESSE>../rezepte/backen/Raffaello-Torte.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/backen/raffaelloTorte.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Rotk&#228;ppchenkuchen</LINKNAME>
-    <LINKADRESSE>../rezepte/backen/Rotkaepchenkuchen.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/backen/rotkaepchenKuchen.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Sprudelkuchen</LINKNAME>
-    <LINKADRESSE>../rezepte/backen/Sprudelkuchen.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/backen/sprudelKuchen.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Stachelbeer- Butterkeks- Kuchen</LINKNAME>
-    <LINKADRESSE>../rezepte/backen/Stachelbeer_Butterkeks_Kuchen.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/backen/stachelbeerButterkeksKuchen.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
   <LINK>
     <LINKNAME>Waffeln</LINKNAME>
-    <LINKADRESSE>../rezepte/backen/Waffeln.xml</LINKADRESSE>
+    <LINKADRESSE>../rezepte/backen/waffeln.xml</LINKADRESSE>
     <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
   </LINK>
 </MENUE>
