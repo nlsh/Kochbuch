@@ -1,31 +1,27 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE REZEPT SYSTEM "../../dtd_xsl/rezept.dtd">
 <?xml-stylesheet type="text/xsl" href="../../dtd_xsl/rezepte.xsl" ?>
 <REZEPT>
-  <REZEPTNAME>Kürbis- Suppe</REZEPTNAME>
+  <REZEPTNAME>KÃ¼rbis- Suppe</REZEPTNAME>
   <KATEGORIE>Suppen</KATEGORIE>
   <AUTOR></AUTOR>
   <BEWERTUNG>****</BEWERTUNG>
  <ANZAHLPERSONEN></ANZAHLPERSONEN>
  <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
   <ZUTATEN>
-    <ZUTAT>1 Hokaido- Kürbis</ZUTAT>
-    <ZUTAT>250 g Butter</ZUTAT>
-    <ZUTAT>1 l Gemüsebrühe</ZUTAT>
-    <ZUTAT>250 g Sahne</ZUTAT>
-    <ZUTAT>2 Beutel heiße Tasse- Classic Champignon</ZUTAT>
-    <ZUTAT>1 Zitrone</ZUTAT>
-    <ZUTAT>Pfeffer</ZUTAT>
-    <ZUTAT>Salz</ZUTAT>
-    <ZUTAT>Muskatnuss</ZUTAT>
+    <ZUTAT>1 Hokaido- KÃ¼rbis</ZUTAT>
+    <ZUTAT>2 EsslÃ¶ffel Butter</ZUTAT>
+    <ZUTAT>750 ml BrÃ¼he</ZUTAT>
+    <ZUTAT>2 Zwiebeln</ZUTAT>
+    <ZUTAT>3- 4 cm Ingwer frisch</ZUTAT>
+    <ZUTAT>1 Dose Mango</ZUTAT>
+    <ZUTAT>1 Dose Kokosmilch</ZUTAT>
+    <ZUTAT>Chili</ZUTAT>
   </ZUTATEN>
   <ZUBEREITUNG>
-    <ITEM>den Kürbis in Würfel schneiden und in der Butter anschmoren</ITEM>
-    <ITEM>danach mit der Gemüsebrühe fein pürieren</ITEM>
-    <ITEM>jetzt mit Salz, Pfeffer abschmecken</ITEM>
-    <ITEM>die Beutel heiße Tasse- Classic Champignon hinzugeben</ITEM>
-    <ITEM>aufkochen lassen</ITEM>
-    <ITEM>Sahne hinzugeben</ITEM>
-    <ITEM>zum Schluss noch mit etwas frisch gepresster Zitrone und Muskatnuss verfeinern</ITEM>
+    <ITEM>den KÃ¼rbis und die Zwiebeln in WÃ¼rfel schneiden und in der Butter anschmoren</ITEM>
+    <ITEM>danach zusammen mit der BrÃ¼he, der Mango, der Kokosmilch und der geschÃ¤lten und in Streifen geschnittenen Ingwer ca 20 min. kÃ¶cheln lassen, bis der KÃ¼rbis weich zum pÃ¼rieren ist</ITEM>
+    <ITEM>das Ganze jetzt pÃ¼rieren</ITEM>
+    <ITEM>zum Schluss je nach Geschmack mit Chili abschmecken</ITEM>
   </ZUBEREITUNG>
 </REZEPT>
