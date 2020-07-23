@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE MENUE SYSTEM "menue.dtd">
-<?xml-stylesheet type="text/xsl" href="../../xml/dtd_xsl/menue.xsl" ?>
+<!DOCTYPE MENUE SYSTEM "../../xml/dtd_xsl/menue.dtd">
+<?xml-stylesheet type="application/xml" href="../../xml/dtd_xsl/menue.xsl"?>enue.xsl" ?>
 <MENUE>
   <MENUENAME>Backenmen&#252;</MENUENAME>
   <LINK>
