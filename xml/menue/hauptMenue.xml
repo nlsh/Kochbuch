@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE MENUE SYSTEM "../../xml/dtd_xsl/menue.dtd">
+<?xml-stylesheet type="application/xml" href="../../xml/dtd_xsl/menue.xsl"?>
+<MENUE>
+  <MENUENAME>Hauptmen&#252;</MENUENAME>
+  <LINK>
+    <LINKNAME>
+    <FETT>Kochbuch</FETT>
+    <ZEILENUMBRUCH />
+    <ZEILENUMBRUCH />&#160;</LINKNAME>
+    <LINKADRESSE>../../index.htm</LINKADRESSE>
+    <LINKAUSGABE>_top</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Backen</LINKNAME>
+    <LINKADRESSE>backenMenue.xml</LINKADRESSE>
+    <LINKAUSGABE>Inhalt</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>im Backofen</LINKNAME>
+    <LINKADRESSE>backofenMenue.xml</LINKADRESSE>
+    <LINKAUSGABE>Inhalt</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Fleischgerichte</LINKNAME>
+    <LINKADRESSE>fleischMenue.xml</LINKADRESSE>
+    <LINKAUSGABE>Inhalt</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Fischgerichte</LINKNAME>
+    <LINKADRESSE>fischMenue.xml</LINKADRESSE>
+    <LINKAUSGABE>Inhalt</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Gem&#252;sebeilagen</LINKNAME>
+    <LINKADRESSE>gemueseMenue.xml</LINKADRESSE>
+    <LINKAUSGABE>Inhalt</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Salate</LINKNAME>
+    <LINKADRESSE>salateMenue.xml</LINKADRESSE>
+    <LINKAUSGABE>Inhalt</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Pfannen, Suppen und Eint&#246;pfe</LINKNAME>
+    <LINKADRESSE>suppenMenue.xml</LINKADRESSE>
+    <LINKAUSGABE>Inhalt</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Nudelgerichte</LINKNAME>
+    <LINKADRESSE>nudelMenue.xml</LINKADRESSE>
+    <LINKAUSGABE>Inhalt</LINKAUSGABE>
+  </LINK>
+    <LINK>
+    <LINKNAME>auf dem Grill</LINKNAME>
+    <LINKADRESSE>grillMenue.xml</LINKADRESSE>
+    <LINKAUSGABE>Inhalt</LINKAUSGABE>
+  </LINK>
+</MENUE>
