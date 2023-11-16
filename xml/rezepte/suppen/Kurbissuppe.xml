@@ -4,19 +4,20 @@
 <REZEPT>
   <REZEPTNAME>Kürbis- Suppe</REZEPTNAME>
   <KATEGORIE>Suppen</KATEGORIE>
-  <AUTOR></AUTOR>
-  <BEWERTUNG>****</BEWERTUNG>
- <ANZAHLPERSONEN></ANZAHLPERSONEN>
+  <AUTOR>Nils Heinold</AUTOR>
+  <BEWERTUNG>*****</BEWERTUNG>
+ <ANZAHLPERSONEN>8</ANZAHLPERSONEN>
  <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
   <ZUTATEN>
-    <ZUTAT>1 Hokaido- Kürbis</ZUTAT>
-    <ZUTAT>2 Esslöffel Butter</ZUTAT>
-    <ZUTAT>750 ml Brühe</ZUTAT>
+    <ZUTAT>1 Hokaido- Kürbis, ca 1.000 g unausgenommen</ZUTAT>
+    <ZUTAT>2 Esslöffel/ 30 g Butter</ZUTAT>
+    <ZUTAT>500 ml Brühe</ZUTAT>
     <ZUTAT>2 Zwiebeln</ZUTAT>
     <ZUTAT>3- 4 cm Ingwer frisch</ZUTAT>
-    <ZUTAT>1 Dose Mango</ZUTAT>
-    <ZUTAT>1 Dose Kokosmilch</ZUTAT>
-    <ZUTAT>Chili</ZUTAT>
+    <ZUTAT>1 Dose Mango, 400 g</ZUTAT>
+    <ZUTAT>1 Dose Kokosmilch, 400 g</ZUTAT>
+    <ZUTAT>1 Chilischote, rot, oder etwas Chilipulver</ZUTAT>
+    <ZUTAT>eventuell Salz</ZUTAT>
   </ZUTATEN>
   <ZUBEREITUNG>
     <ITEM>den Kürbis und die Zwiebeln in Würfel schneiden und in der Butter anschmoren</ITEM>
