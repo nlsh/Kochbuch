@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE MENUE SYSTEM "../../xml/dtd_xsl/menue.dtd">
+<?xml-stylesheet type="application/xml" href="../../xml/dtd_xsl/menue.xsl"?>
+<MENUE>
+  <MENUENAME>Im Backofen Men&#252;</MENUENAME>
+  <LINK>
+    <LINKNAME>
+    <FETT>Kochbuch</FETT>
+    <ZEILENUMBRUCH />
+    <ZEILENUMBRUCH />&#160;</LINKNAME>
+    <LINKADRESSE>../../index.htm</LINKADRESSE>
+    <LINKAUSGABE>_top</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>
+    <FETT>im Backofen</FETT>
+    <ZEILENUMBRUCH />&#160;</LINKNAME>
+    <LINKADRESSE>backofenMenue.xml</LINKADRESSE>
+    <LINKAUSGABE>Inhalt</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Backofensuppe</LINKNAME>
+    <LINKADRESSE>../rezepte/backofen/backOfenSuppe.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Eine Karre Mist</LINKNAME>
+    <LINKADRESSE>../rezepte/backofen/eineKarreMist.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>H&#228;hnchen portugiesisch</LINKNAME>
+    <LINKADRESSE>../rezepte/backofen/haehnchenPortugiesisch.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Kaukasisches Reiterfleisch</LINKNAME>
+    <LINKADRESSE>../rezepte/backofen/kaukasischesReiterFleisch.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Paprikapfanne mit Schweinekamm</LINKNAME>
+    <LINKADRESSE>../rezepte/backofen/paprikaPfanneMitSchweineKamm.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>R&#228;uberhachbraten</LINKNAME>
+    <LINKADRESSE>../rezepte/backofen/raeuberHackBraten.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+  <LINK>
+    <LINKNAME>Saftige Schnitzel- Pizza</LINKNAME>
+    <LINKADRESSE>../rezepte/backofen/saftigeSchnitzelPizza.xml</LINKADRESSE>
+    <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+  </LINK>
+</MENUE>

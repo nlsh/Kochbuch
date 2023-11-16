@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE MENUE SYSTEM "../../xml/dtd_xsl/menue.dtd">
+<?xml-stylesheet type="application/xml" href="../../xml/dtd_xsl/menue.xsl"?>
+<MENUE>
+ <MENUENAME>Fischmen&#252;</MENUENAME>
+ <LINK>
+  <LINKNAME>
+  <FETT>Kochbuch</FETT>
+  <ZEILENUMBRUCH />
+  <ZEILENUMBRUCH />&#160;</LINKNAME>
+  <LINKADRESSE>../../index.htm</LINKADRESSE>
+  <LINKAUSGABE>_top</LINKAUSGABE>
+ </LINK>
+ <LINK>
+  <LINKNAME>
+  <FETT>Fischgerichte</FETT>
+  <ZEILENUMBRUCH />&#160;</LINKNAME>
+  <LINKADRESSE>fischMenue.xml</LINKADRESSE>
+  <LINKAUSGABE>Inhalt</LINKAUSGABE>
+ </LINK>
+ <LINK>
+  <LINKNAME>Karpfen in Biersoße</LINKNAME>
+  <LINKADRESSE>../rezepte/fisch/karpfenInBiersosse.xml</LINKADRESSE>
+  <LINKAUSGABE>Hauptfenster</LINKAUSGABE>
+ </LINK>
+</MENUE>

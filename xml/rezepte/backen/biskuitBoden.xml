@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE REZEPT SYSTEM "../../dtd_xsl/rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Biskuitboden f&#252;r ein kleines Blech</REZEPTNAME>
+  <KATEGORIE>Backen</KATEGORIE>
+  <AUTOR>unbekannt</AUTOR>
+  <BEWERTUNG></BEWERTUNG>
+  <ANZAHLPERSONEN></ANZAHLPERSONEN>
+  <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>4 Eier</ZUTAT>
+    <ZUTAT>200 g Zucker</ZUTAT>
+    <ZUTAT>200 g Mehl</ZUTAT>
+    <ZUTAT>1 P&#228;ckchen Vanillezucker</ZUTAT>
+    <ZUTAT>&#189; P&#228;ckchen Backpulver</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Die o.g. Zutaten miteinander verr&#252;hren und bei ca. 10- 15 min bei
+    mittlerer Hitze abbacken.</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

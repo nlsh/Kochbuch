@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE REZEPT SYSTEM "../../dtd_xsl/rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Backofensuppe</REZEPTNAME>
+  <KATEGORIE>Backofen</KATEGORIE>
+  <AUTOR></AUTOR>
+  <BEWERTUNG></BEWERTUNG>
+ <ANZAHLPERSONEN></ANZAHLPERSONEN>
+ <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>1 kg Schweinefleisch</ZUTAT>
+    <ZUTAT>3 Zwiebeln</ZUTAT>
+    <ZUTAT>1 Glas Tomatenpaprika</ZUTAT>
+    <ZUTAT>1 kleine B&#252;chse Erbsen fein</ZUTAT>
+    <ZUTAT>1 gro&#223;e B&#252;chse Pilze</ZUTAT>
+    <ZUTAT>250 g Chili- So&#223;e</ZUTAT>
+    <ZUTAT>250 g Curry So&#223;e</ZUTAT>
+    <ZUTAT>400- 500 g s&#252;&#223;e Sahne</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>zuerst das Schweinefleisch und die Zwiebeln w&#252;rfeln</ITEM>
+    <ITEM>danach die Chili- So&#223;e, die Curry- So&#223;e und die s&#252;&#223;e Sahne
+    miteinander verr&#252;hren</ITEM>
+    <ITEM>in einem Br&#228;ter nun das gew&#252;rfelte Schweinefleisch, die Zwiebeln, das Glas
+    Paprika ( ohne Glas), die B&#252;chse Erbsen und Pilze inklusive dem Saft und der vorab
+    anger&#252;hrten So&#223;e dazu geben und das Ganze bei ca. 200&#186; Celsius 2- 2 &#189;
+    h im Backofen gar werden lassen</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE REZEPT SYSTEM "../../dtd_xsl/rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Linseneintopf</REZEPTNAME>
+  <KATEGORIE>Suppe</KATEGORIE>
+  <AUTOR>Mei&#223;ner, Christa</AUTOR>
+  <BEWERTUNG>*****</BEWERTUNG>
+  <ANZAHLPERSONEN></ANZAHLPERSONEN>
+  <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>2 B&#252;chsen Linsen mit Suppengr&#252;n { handels&#252;blich }</ZUTAT>
+    <ZUTAT>1- 1 &#189; kg Kasslerrippe</ZUTAT>
+    <ZUTAT>5 mittelgro&#223;e Kartoffeln</ZUTAT>
+    <ZUTAT>1 mittelgro&#223;e M&#246;hre</ZUTAT>
+    <ZUTAT>1 Scheibe Sellerieknolle ca. 1 cm dick</ZUTAT>
+    <ZUTAT>2 Knoblauchzehen</ZUTAT>
+    <ZUTAT>&#189; Stange Porree oder 1 mittelgro&#223;e Zwiebel klein schneiden</ZUTAT>
+    <ZUTAT>Instant - Gem&#252;sebr&#252;he</ZUTAT>
+    <ZUTAT>1 Teel&#246;ffel Majoran</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Das Kassler zum Kochen aufsetzen , Garzeit ca. 1 &#189; Stunden in etwa 1
+    &#189; Liter Wasser.</ITEM>
+    <ITEM>Danach Sud vom Fleisch trennen, Knochen entfernen, Fleisch klein
+    schneiden.</ITEM>
+    <ITEM>Die in kleine W&#252;rfelchen geschnittenen Kartoffeln, M&#246;hre, und
+    Sellerie in einen Kochtopf mit dem Kochsud der inzwischen garen Kasslerrippe ohne das
+    Fleisch aufsetzen und den Knoblauch, den Porree dazugeben. Garzeit etwa 20 Min. 10
+    Minuten vor Ablauf der Garzeit den Majoran dazugeben.</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

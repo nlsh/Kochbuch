@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE REZEPT SYSTEM "../../dtd_xsl/rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Ananas- Mandarinen- Torte f&#252;r ein kleines Blech</REZEPTNAME>
+  <KATEGORIE>Backen</KATEGORIE>
+  <AUTOR>unbekannt</AUTOR>
+  <BEWERTUNG>****</BEWERTUNG>
+  <ANZAHLPERSONEN></ANZAHLPERSONEN>
+  <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>1 Dose Ananas ( Ringe)</ZUTAT>
+    <ZUTAT>1 &#189; bis 2 Dosen Mandarinen</ZUTAT>
+    <ZUTAT>500 g Quark</ZUTAT>
+    <ZUTAT>100 g Zucker</ZUTAT>
+    <ZUTAT>1 Biskuitboden ( bitte vorher abbacken)</ZUTAT>
+    <ZUTAT>1 &#189; Becher s&#252;&#223;e Sahne ( 300 ml)</ZUTAT>
+    <ZUTAT>1 &#189; P&#228;ckchen Sahnesteif</ZUTAT>
+    <ZUTAT>9 Blatt Gelatine ( 1 T&#252;te)</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Den Quark mit dem Zucker und einer Dose Mandarinen ohne Saft verquirlen.</ITEM>
+    <ITEM>Sahne steif schlagen, Sahnesteif dazu und unter die Quark- Masse heben.</ITEM>
+    <ITEM>Die Gelatine in 70 ml Ananassaft aufl&#246;sen ( leicht erw&#228;rmen) und
+    ebenfalls unter die Quarkmasse geben.</ITEM>
+    <ITEM>Diese Quarkmasse nun auf den Biskuitboden verteilen und nach belieben mit
+    Ananasscheiben und Mandarinen dekorieren.</ITEM>
+    <ITEM>Danach das ganze &#252;ber Nacht in den K&#252;hlschrank.</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

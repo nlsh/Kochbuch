@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE REZEPT SYSTEM "../../dtd_xsl/rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Spargel</REZEPTNAME>
+  <KATEGORIE>Gem&#252;sebeilagen</KATEGORIE>
+  <AUTOR>Mei&#223;ner, Christa</AUTOR>
+  <BEWERTUNG>*****</BEWERTUNG>
+  <ANZAHLPERSONEN>2</ANZAHLPERSONEN>
+  <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>500 g Stangenspargel</ZUTAT>
+    <ZUTAT>2 &#189; Tassen Wasser</ZUTAT>
+    <ZUTAT>1 Teel&#246;ffel Salz</ZUTAT>
+    <ZUTAT>1 Messerspitze Zucker</ZUTAT>
+    <ZUTAT>1 kleinen Essl&#246;ffel Butter</ZUTAT>
+    <ZUTAT>1 &#189; Essl&#246;ffel Mehl f&#252;r die So&#223;e</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Den gesch&#228;lten Spargel in kurze St&#252;cke schneiden, im gesalzenen
+    Wasser 10 Minuten kochen.</ITEM>
+    <ITEM>Das Mehl in der zerlassenen Butter anschwitzen lassen, unter umr&#252;hren das
+    Spargelkochwasser hinzugeben und mit Zucker abschmecken.</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

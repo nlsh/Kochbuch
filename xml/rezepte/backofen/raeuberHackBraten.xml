@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE REZEPT SYSTEM "../../dtd_xsl/rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>R&#228;uberhackbraten</REZEPTNAME>
+  <KATEGORIE>Backofen</KATEGORIE>
+  <AUTOR></AUTOR>
+  <BEWERTUNG></BEWERTUNG>
+ <ANZAHLPERSONEN></ANZAHLPERSONEN>
+ <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>2 altbackene Br&#246;tchen</ZUTAT>
+    <ZUTAT>200 g junger Gouda</ZUTAT>
+    <ZUTAT>4 Zwiebeln</ZUTAT>
+    <ZUTAT>3 Knoblauchzehen</ZUTAT>
+    <ZUTAT>2 rote Paprikaschoten</ZUTAT>
+    <ZUTAT>1 Glas ( 360 g) Champignons</ZUTAT>
+    <ZUTAT>5 Essl&#246;ffel Speise&#246;l</ZUTAT>
+    <ZUTAT>1,2 kg Gehacktes ( halb Rind-, halb Schweinefleisch)</ZUTAT>
+    <ZUTAT>4 Eier</ZUTAT>
+    <ZUTAT>1 Essl&#246;ffel Paprika edels&#252;&#223;</ZUTAT>
+    <ZUTAT>1 Essl&#246;ffel Paprika scharf</ZUTAT>
+    <ZUTAT>Salz</ZUTAT>
+    <ZUTAT>frisch gemahlener Pfeffer</ZUTAT>
+    <ZUTAT>300 g durchwachsener Speck</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Br&#246;tchen in kaltem Wasser einweichen. K&#228;se w&#252;rfeln. Zwiebeln und
+    Knoblauch abziehen und fein hacken.</ITEM>
+    <ITEM>Paprikaschoten vierteln, entkernen, die wei&#223;en Scheidew&#228;nde entfernen,
+    Paprika waschen und in kleine W&#252;rfel schneiden. Pilze abtropfen lassen und in feine
+    Scheiben schneiden.</ITEM>
+    <ITEM>&#214;l erhitzen, Zwiebel- und Knoblauchw&#252;rfel darin d&#252;nsten.
+    Paprikaw&#252;rfel hinzuf&#252;gen, mit and&#252;nsten. Pilze und K&#228;se
+    unterheben.</ITEM>
+    <ITEM>Br&#246;tchen gut ausdr&#252;cken. Alle Zutaten mit dem Hackfleisch und Eiern zu
+    einem Teig verarbeiten, mit den Gew&#252;rzen abschmecken.</ITEM>
+    <ITEM>Den Speck in Scheiben schneiden. Die Hackfleischmasse zu einem Klo&#223; formen, die
+    Speckscheiben darauflegen, mit K&#252;chengarn zusammenbinden und in eine Fettfangschale
+    legen.</ITEM>
+    <ITEM>Die Fettfangschale in den Backofen schieben. Nach und nach etwas Wasser
+    hinzuf&#252;gen</ITEM>
+    <ITEM>Bratzeit: 75 min
+    <ZEILENUMBRUCH />
+    <ZEILENUMBRUCH />Ober-/ Unterhitze: etwa 180 &#186; C ( vorgeheizt)
+    <ZEILENUMBRUCH />Hei&#223;luft: etwa 160 &#186; C ( nicht vorgeheizt)
+    <ZEILENUMBRUCH />Gas: etwa Stufe 3 ( vorgeheizt)</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>

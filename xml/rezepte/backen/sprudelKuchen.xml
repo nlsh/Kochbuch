@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE REZEPT SYSTEM "../../dtd_xsl/rezept.dtd">
+<?xml-stylesheet type="text/xsl" href="../../dtd_xsl/rezepte.xsl" ?>
+<REZEPT>
+  <REZEPTNAME>Sprudelkuchen</REZEPTNAME>
+  <KATEGORIE>Backen</KATEGORIE>
+  <AUTOR></AUTOR>
+  <BEWERTUNG></BEWERTUNG>
+  <ANZAHLPERSONEN></ANZAHLPERSONEN>
+  <ZUBEREITUNGSZEIT></ZUBEREITUNGSZEIT>
+  <ZUTATEN>
+    <ZUTAT>3 &#189; Tassen Mehl</ZUTAT>
+    <ZUTAT>2 Tassen Zucker</ZUTAT>
+    <ZUTAT>1 Tasse &#214;l</ZUTAT>
+    <ZUTAT>1 Tasse Zitronenlimonade oder Selters</ZUTAT>
+    <ZUTAT>4 Eier</ZUTAT>
+    <ZUTAT>6 Dosen kleine Mandarinen</ZUTAT>
+    <ZUTAT>3 P&#228;ckchen Tortenguss ( klar)</ZUTAT>
+    <ZUTAT>3 P&#228;ckchen Sahnesteif</ZUTAT>
+    <ZUTAT>3 P&#228;ckchen Vanillezucker</ZUTAT>
+    <ZUTAT>2 Becher s&#252;&#223;e Sahne</ZUTAT>
+    <ZUTAT>2 Becher Schmand</ZUTAT>
+    <ZUTAT>1 Packung L&#246;ffelbiskuit oder Schokostreusel</ZUTAT>
+  </ZUTATEN>
+  <ZUBEREITUNG>
+    <ITEM>Mehl, Zucker, &#214;l, Zitronenlimonade und Eier zum Teig verkneten und auf
+    einem Blech bei 200&#176; C mittlerer Hitze abbacken und abk&#252;hlen lassen.</ITEM>
+    <ITEM>Die Mandarinen mit dem Tortenguss andicken, auf dem abgebackenen Boden
+    verteilen und abk&#252;hlen lassen.</ITEM>
+    <ITEM>Die s&#252;&#223;e Sahne mit Sahnesteif und Vanillezucker steif schlagen, den
+    Schmand unterheben und das Ganze &#252;ber die Mandarinen geben.</ITEM>
+    <ITEM>Zum Schluss die L&#246;ffelbiskuits zerbr&#246;selt bzw. die Schokostreusel
+    verteilen.</ITEM>
+  </ZUBEREITUNG>
+</REZEPT>
